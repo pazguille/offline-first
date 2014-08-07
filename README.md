@@ -9,6 +9,7 @@
 ## Posts
 
 **[Offline First - the new paradigm in web development done Neptune style](http://scn.sap.com/community/developer-center/front-end/blog/2014/08/05/offline-first--the-new-paradigm-in-web-development-done-neptune-style)**
+
 (Njål Stabell - August 5, 2014)
 
 **[Breaking Development: Offline First is the new Mobile First](http://www.lukew.com/ff/entry.asp?1902)**
