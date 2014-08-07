@@ -32,8 +32,26 @@ All you have to know to create Offline-First Web Apps.
 #### [Building an Offline First App with PouchDB](http://www.sitepoint.com/building-offline-first-app-pouchdb/)
 
 ## Talks
+
+#### [Offline First Re-Imagining Web Development For The Real World](http://qconlondon.com/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf)
+
 ## Tools
+
+#### IndexedDB
+https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+
+#### remoteStorage
+http://remotestorage.io/
+
+#### pouchdb
+http://pouchdb.com/
+
+#### Offline.js
+http://github.hubspot.com/offline/docs/welcome/
+
 ## People
+
+[TODO]
 
 ## Maintained by
 - Guille Paz (Front-end developer | Web standards lover)
