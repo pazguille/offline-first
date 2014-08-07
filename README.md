@@ -1,7 +1,16 @@
 # Offline-First Web Apps
 
-> All you have to know to create Offline-First Web Apps.
+## Intro
+> "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean? 
 
+> via http://www.html5rocks.com/en/features/offline
+
+All you have to know to create Offline-First Web Apps.
+
+## Posts
+## Talks
+## Tools
+## People
 
 ## Maintained by
 - Guille Paz (Front-end developer | Web standards lover)
