@@ -42,23 +42,43 @@
 
 ## Talks
 
+[Say hello to offline first!](https://speakerdeck.com/zoepage/say-hello-to-offline-first)
+(Ola Gasidlo - May 19, 2014)
+
+[Offline First (Web) Apps](https://speakerdeck.com/espylaub/offline-first-web-apps)
+(Alex Feyerke - May 2, 2014)
+
+[Offline First – Made Simple!](https://speakerdeck.com/gr2m/offline-first-made-simple)
+(Gregor Martynus - April 24, 2014)
+
 [Offline First Re-Imagining Web Development For The Real World](http://qconlondon.com/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf)
-(Caolan McMahon - 2014)
+(Caolan McMahon - March, 2014)
+
+[Bring NoSQL to your mobile](https://www.youtube.com/watch?v=qfC90DQEoeY)
+(Patrick Heneise - Dec 16, 2013)
+
+[Network connectivity: optional](https://www.youtube.com/watch?v=Z7sRMg0f5Hk)
+(Jake Archibald - Dec 4, 2013)
+
+[Offline First](https://www.youtube.com/watch?v=7mdG-iAizVc)
+(Jan Lehnardi - May 27, 2013)
+
+[AppCache: Douchebag](https://www.youtube.com/watch?v=cR-TP6jOSQM)
+(Jake Archibald - Jan 20, 2013)
+
+[Offline Rules](https://www.youtube.com/watch?v=RrGo1Sz4IgQ)
+(Andrew Betts - Dec 4, 2012)
+
+[Building Web Apps of the future. Tomorrow, today and yesterday.](https://www.youtube.com/watch?v=O3AukCYymEU)
+(Paul Kinlan - November 12, 2012)
+
+[Getting off(line): appcache, localStorage for HTML5 apps that work offline](https://www.youtube.com/watch?v=dN8e-QdYyCk)
+(John Allsopp - Jul 3, 2012)
 
 
 ## Tools
 
-#### IndexedDB
-https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
-
-#### remoteStorage
-http://remotestorage.io/
-
-#### pouchdb
-http://pouchdb.com/
-
-#### Offline.js
-http://github.hubspot.com/offline/docs/welcome/
+[TODO]
 
 ## People
 
