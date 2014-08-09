@@ -78,7 +78,20 @@
 
 ## Tools
 
-[TODO]
+[ApplicationCache](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache): HTML5 provides an application caching mechanism that lets web-based applications run offline.
+
+[IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API): IndexedDB is an API for client-side storage of significant amounts of structured data and for high performance searches on this data using indexes.
+
+[ServiceWorkers](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Social_API/Service_worker_API_reference): A Service Worker inherits all the limitations and behaviors available to HTML5 Shared Workers. It can create XMLHttpRequests, use WebSockets, receive messages from windows and the browser, use IndexedDB, and post messages to other windows.
+
+[localForage](https://github.com/mozilla/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+
+[remoteStorage](http://remotestorage.io): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
+
+[pouchdb](http://pouchdb.com): PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
+
+[Offline.js](http://github.hubspot.com/offline/docs/welcome): An awesome JavaScript library to improve the experience of your app when your users lose connection.
+
 
 ## People
 
