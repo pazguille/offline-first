@@ -37,15 +37,6 @@
 [Offline First: Your Next Progressive Enhancement Technique?](http://www.sitepoint.com/offline-first-next-progressive-enhancement-technique/)
 (Craig Buckler - October 30, 2013)
 
-[Application Cache And Local Storage](https://www.youtube.com/watch?v=ceODU6z4-yc)
-(Scott Davis - December 7 , 2012)
-
-[Taking Web Apps Offline](https://www.youtube.com/watch?v=ejcJmeewtd4)
-(Kevin Markman - November 5, 2012)
-
-[Building Offline Web Apps with HTML5](https://www.youtube.com/watch?v=W41mvarupH0)
-(Jonathan Stark - July 25, 2012)
-
 [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
 (Jake Archibald - May 08, 2012)
 
@@ -75,11 +66,20 @@
 [AppCache: Douchebag](https://www.youtube.com/watch?v=cR-TP6jOSQM)
 (Jake Archibald - Jan 20, 2013)
 
+[Application Cache And Local Storage](https://www.youtube.com/watch?v=ceODU6z4-yc)
+(Scott Davis - December 7 , 2012)
+
 [Offline Rules](https://www.youtube.com/watch?v=RrGo1Sz4IgQ)
 (Andrew Betts - December 4, 2012)
 
 [Building Web Apps of the future. Tomorrow, today and yesterday.](https://www.youtube.com/watch?v=O3AukCYymEU)
 (Paul Kinlan - November 12, 2012)
+
+[Taking Web Apps Offline](https://www.youtube.com/watch?v=ejcJmeewtd4)
+(Kevin Markman - November 5, 2012)
+
+[Building Offline Web Apps with HTML5](https://www.youtube.com/watch?v=W41mvarupH0)
+(Jonathan Stark - July 25, 2012)
 
 [Getting off(line): appcache, localStorage for HTML5 apps that work offline](https://www.youtube.com/watch?v=dN8e-QdYyCk)
 (John Allsopp - July 3, 2012)
