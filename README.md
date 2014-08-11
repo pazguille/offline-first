@@ -101,6 +101,8 @@
 
 [Offline.js](http://github.hubspot.com/offline/docs/welcome): An awesome JavaScript library to improve the experience of your app when your users lose connection.
 
+[Hoodie](http://hood.ie/): Hoodie is an Offline First and noBackend architecture for frontend-only web apps on the web and on iOS.
+
 
 ## People
 - [Matthew Riley](https://github.com/tofumatt)
