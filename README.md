@@ -105,7 +105,7 @@
 
 
 ## People
-- [Matthew Riley](https://github.com/tofumatt)
+- [tofumatt](https://github.com/tofumatt)
 - [Jake Archibald](https://github.com/jakearchibald)
 
 ## Maintained by
