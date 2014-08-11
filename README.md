@@ -103,8 +103,8 @@
 
 
 ## People
-
-[TODO]
+- [Matthew Riley](https://github.com/tofumatt)
+- [Jake Archibald](https://github.com/jakearchibald)
 
 ## Maintained by
 - Guille Paz (Front-end developer | Web standards lover)
