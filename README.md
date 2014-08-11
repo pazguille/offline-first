@@ -61,7 +61,7 @@
 (Jake Archibald - December 4, 2013)
 
 [Offline First](https://www.youtube.com/watch?v=7mdG-iAizVc)
-(Jan Lehnardi - May 27, 2013)
+(Jan Lehnardt - May 27, 2013)
 
 [AppCache: Douchebag](https://www.youtube.com/watch?v=cR-TP6jOSQM)
 (Jake Archibald - Jan 20, 2013)
