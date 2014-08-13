@@ -16,6 +16,9 @@
 [Service Worker - first draft published](http://jakearchibald.com/2014/service-worker-first-draft/)
 (Jake Archibald - May 8, 2014)
 
+[The BMEAN Stack and Offline-First Design](http://dailyjs.com/2014/04/11/bmean/)
+(Daishi Kato - April 11, 2014)
+
 [Do HTML5 apps have to be online all the time?](http://christianheilmann.com/2014/03/23/do-html5-apps-have-to-be-online-all-the-time/)
 (Christian Heilmann - March 23rd, 2014)
 
