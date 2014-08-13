@@ -45,6 +45,9 @@
 
 ## Talks
 
+[Offline First](https://www.youtube.com/watch?v=dPz_5-MEvcg)
+(Alex Feyerke - July 17, 2014)
+
 [The ServiceWorker: The network layer is yours to own](https://www.youtube.com/watch?v=4uQMl7mFB6g)
 (Jake Archibald - June 25, 2014)
 
