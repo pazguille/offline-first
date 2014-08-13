@@ -42,6 +42,9 @@
 
 ## Talks
 
+[The ServiceWorker: The network layer is yours to own](https://www.youtube.com/watch?v=4uQMl7mFB6g)
+(Jake Archibald - June 25, 2014)
+
 [Say hello to offline first!](https://speakerdeck.com/zoepage/say-hello-to-offline-first)
 (Ola Gasidlo - May 19, 2014)
 
