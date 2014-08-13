@@ -34,6 +34,9 @@
 [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first)
 (Alex Feyerke - December 4, 2013)
 
+[Making the web work offline first](http://www.marcelkalveram.com/2013/11/developing-for-offline-first/)
+(Marcel Kalveram - November 20, 2013)
+
 [Say Hello to Offline First](http://blog.hood.ie/2013/11/say-hello-to-offline-first/)
 (Dan Lash - November 5, 2013)
 
