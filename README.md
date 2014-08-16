@@ -43,11 +43,16 @@
 [Offline First: Your Next Progressive Enhancement Technique?](http://www.sitepoint.com/offline-first-next-progressive-enhancement-technique/)
 (Craig Buckler - October 30, 2013)
 
+[Appcache, not so much a douchebag as a complete pain in the #$%^](http://www.webdirections.org/blog/appcache-not-so-much-a-douchebag-as-a-complete-pain-in-the/)
+(John Allsopp - July 19, 2013)
+
 [Using HTML5 AppCache with Single Page Applications](http://techblog.dorogin.com/2013/03/using-html5-appcache-with-single-page-apps.html)
 (Sergei Dorogin - March 29, 2013)
 
 [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
 (Jake Archibald - May 08, 2012)
+
+[Appcache Facts](http://appcachefacts.info)
 
 ## Talks
 
