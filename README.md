@@ -56,6 +56,9 @@
 
 ## Talks
 
+[The Next Challenge of the Web is Us](https://www.youtube.com/watch?v=QPRqQH_30hU&t=22m53s)
+(Christian Heilmann - August 1, 2014)
+
 [Offline First](https://www.youtube.com/watch?v=dPz_5-MEvcg)
 (Alex Feyerke - July 17, 2014)
 
