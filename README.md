@@ -34,6 +34,9 @@
 [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first)
 (Alex Feyerke - December 4, 2013)
 
+[Offline First](http://www.kryogenix.org/days/2013/11/06/offline-first/)
+(Stuart Langridge - November 6, 2013)
+
 [Making the web work offline first](http://www.marcelkalveram.com/2013/11/developing-for-offline-first/)
 (Marcel Kalveram - November 20, 2013)
 
