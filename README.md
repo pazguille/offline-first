@@ -54,6 +54,8 @@
 
 [Appcache Facts](http://appcachefacts.info)
 
+[Chrome Offline Apps](https://developer.chrome.com/apps/offline_apps)
+
 ## Talks
 
 [The Next Challenge of the Web is Us](https://www.youtube.com/watch?v=QPRqQH_30hU&t=22m53s)
