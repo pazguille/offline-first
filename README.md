@@ -62,6 +62,9 @@
 [Offline Support is Valuable, and You Can’t Add it Later](http://aanandprasad.com/articles/offline/)
 (Aanand Prasad - August 13, 2011)
 
+[Offline Web Applications](https://hacks.mozilla.org/2010/01/offline-web-applications/)
+(Paul Rouget - January 7, 2010)
+
 ## Talks
 
 [The Next Challenge of the Web is Us](https://www.youtube.com/watch?v=QPRqQH_30hU&t=22m53s)
