@@ -59,6 +59,9 @@
 
 [Chrome Offline Apps](https://developer.chrome.com/apps/offline_apps)
 
+[Offline Support is Valuable, and You Can’t Add it Later](http://aanandprasad.com/articles/offline/)
+(Aanand Prasad - August 13, 2011)
+
 ## Talks
 
 [The Next Challenge of the Web is Us](https://www.youtube.com/watch?v=QPRqQH_30hU&t=22m53s)
