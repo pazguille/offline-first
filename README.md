@@ -8,6 +8,9 @@
 
 ## Posts
 
+[Introducing MakeDrive](Introducing MakeDrive)
+(David Humphrey - August 25, 2014)
+
 [Offline First - the new paradigm in web development done Neptune style](http://scn.sap.com/community/developer-center/front-end/blog/2014/08/05/offline-first--the-new-paradigm-in-web-development-done-neptune-style) (Njål Stabell - August 5, 2014)
 
 [Breaking Development: Offline First is the new Mobile First](http://www.lukew.com/ff/entry.asp?1902)
@@ -127,8 +130,7 @@
 
 ## Tools
 
-[MakeDrive](https://github.com/mozilla/makedrive)
-A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
+[MakeDrive](https://github.com/mozilla/makedrive): A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
 See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDrive) for background info.
 
 [ApplicationCache](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache): HTML5 provides an application caching mechanism that lets web-based applications run offline.
