@@ -73,6 +73,9 @@
 [Status Web Offline](http://www.infoq.com/presentations/status-web-offline)
 (Caolan McMahon -  August 21, 2014)
 
+[Look Ma, No Connections! Building Offline-capable Web Apps with HTML5](http://www.infoq.com/presentations/html5-offline-storage)
+(Bijan Vaez -  August 1, 2014)
+
 [The Next Challenge of the Web is Us](https://www.youtube.com/watch?v=QPRqQH_30hU&t=22m53s)
 (Christian Heilmann - August 1, 2014)
 
