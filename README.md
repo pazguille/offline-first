@@ -8,7 +8,7 @@
 
 ## Posts
 
-[Introducing MakeDrive](Introducing MakeDrive)
+[Introducing MakeDrive](http://blog.humphd.org/introducing-makedrive/)
 (David Humphrey - August 25, 2014)
 
 [Offline First - the new paradigm in web development done Neptune style](http://scn.sap.com/community/developer-center/front-end/blog/2014/08/05/offline-first--the-new-paradigm-in-web-development-done-neptune-style) (Njål Stabell - August 5, 2014)
