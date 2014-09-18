@@ -70,6 +70,9 @@
 
 ## Talks
 
+[Scaling Down: The Offline First Story](https://speakerdeck.com/wohali/scaling-down-the-offline-first-story)
+(Joan Touzet - September 16, 2014)
+
 [Status Web Offline](http://www.infoq.com/presentations/status-web-offline)
 (Caolan McMahon -  August 21, 2014)
 
