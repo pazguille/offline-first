@@ -8,6 +8,9 @@
 
 ## Posts
 
+[Building A Simple Cross-Browser Offline To-Do List With IndexedDB And WebSQL](http://www.smashingmagazine.com/2014/09/02/building-simple-cross-browser-offline-todo-list-indexeddb-websql)
+(Matt Andrews - September 2, 2014)
+
 [Introducing MakeDrive](http://blog.humphd.org/introducing-makedrive/)
 (David Humphrey - August 25, 2014)
 
