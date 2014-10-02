@@ -73,6 +73,9 @@
 
 ## Talks
 
+[The ServiceWorker is coming, look busy!](https://www.youtube.com/watch?v=Rr2vXDIVerI)
+(Jake Archibald - September 21, 2014)
+
 [Scaling Down: The Offline First Story](https://speakerdeck.com/wohali/scaling-down-the-offline-first-story)
 (Joan Touzet - September 16, 2014)
 
