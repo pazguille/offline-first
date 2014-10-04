@@ -94,6 +94,9 @@
 [The ServiceWorker: The network layer is yours to own](https://www.youtube.com/watch?v=4uQMl7mFB6g)
 (Jake Archibald - June 25, 2014)
 
+[Offline Web Applications](https://www.youtube.com/watch?v=AbixY3W8ayo)
+(Jan Jongboom - May 23, 2014)
+
 [The Offline Web](https://www.youtube.com/watch?v=nnLBdFLo2fc)
 (Dale Harvey - June 20, 2014)
 
