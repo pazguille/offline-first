@@ -8,6 +8,9 @@
 
 ## Posts
 
+[Introducing Hoodie: Full Stack App Development for Front-End Developers](http://www.toptal.com/front-end/introducing-hoodie-full-stack-app-development-for-front-end-developers)
+(Alvaro Oliveira - September 24, 2014)
+
 [Building A Simple Cross-Browser Offline To-Do List With IndexedDB And WebSQL](http://www.smashingmagazine.com/2014/09/02/building-simple-cross-browser-offline-todo-list-indexeddb-websql)
 (Matt Andrews - September 2, 2014)
 
