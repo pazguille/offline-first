@@ -127,6 +127,9 @@
 [Offline First](https://www.youtube.com/watch?v=7mdG-iAizVc)
 (Jan Lehnardt - May 27, 2013)
 
+[Offline rules: Bleeding edge web standards at the Financial Times](https://vimeo.com/64201695)
+(Andrew Betts - April , 2013)
+
 [AppCache: Douchebag](https://www.youtube.com/watch?v=cR-TP6jOSQM)
 (Jake Archibald - Jan 20, 2013)
 
