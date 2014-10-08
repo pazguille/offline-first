@@ -43,6 +43,9 @@
 [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first)
 (Alex Feyerke - December 4, 2013)
 
+[Offline First: Learning from native experiences](https://medium.com/@dalmaer/offline-first-learning-from-native-experiences-4a778ce8a445)
+(Dion Almaer - December 4, 2013)
+
 [Offline First](http://www.kryogenix.org/days/2013/11/06/offline-first/)
 (Stuart Langridge - November 6, 2013)
 
