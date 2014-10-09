@@ -64,6 +64,9 @@
 [Using HTML5 AppCache with Single Page Applications](http://techblog.dorogin.com/2013/03/using-html5-appcache-with-single-page-apps.html)
 (Sergei Dorogin - March 29, 2013)
 
+[Offline First – A better HTML5 User Experience](http://blog.joelambert.co.uk/2012/11/26/offline-first-a-better-html5-user-experience/)
+(Joe Lambert - November 26, 2012)
+
 [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
 (Jake Archibald - May 08, 2012)
 
@@ -138,9 +141,6 @@
 
 [Offline Rules](https://www.youtube.com/watch?v=RrGo1Sz4IgQ)
 (Andrew Betts - December 4, 2012)
-
-[Offline First – A better HTML5 User Experience](http://blog.joelambert.co.uk/2012/11/26/offline-first-a-better-html5-user-experience/)
-(Joe Lambert - November 26, 2012)
 
 [Building Web Apps of the future. Tomorrow, today and yesterday.](https://www.youtube.com/watch?v=O3AukCYymEU)
 (Paul Kinlan - November 12, 2012)
