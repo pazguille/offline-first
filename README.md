@@ -133,6 +133,9 @@
 [Offline rules: Bleeding edge web standards at the Financial Times](https://vimeo.com/64201695)
 (Andrew Betts - April , 2013)
 
+[What's the right way to build offline into a web application?](https://www.youtube.com/watch?v=Oic22dQMRXQ)
+(Jake Archibald, Mark Christian, Alex Russell and Jonas Sicking - Febrary 9, 2013)
+
 [AppCache: Douchebag](https://www.youtube.com/watch?v=cR-TP6jOSQM)
 (Jake Archibald - Jan 20, 2013)
 
