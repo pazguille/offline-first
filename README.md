@@ -82,6 +82,9 @@
 
 ## Talks
 
+[Working connected to create offline](https://www.youtube.com/watch?v=fj49cSQ986k)
+(Christian Heilmann - November 24, 2014)
+
 [The ServiceWorker is coming, look busy!](https://www.youtube.com/watch?v=Rr2vXDIVerI)
 (Jake Archibald - September 21, 2014)
 
