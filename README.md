@@ -22,6 +22,9 @@
 [Breaking Development: Offline First is the new Mobile First](http://www.lukew.com/ff/entry.asp?1902)
 (Luke Wroblewski - July 29, 2014)
 
+[Offline Web Applications](https://www.youtube.com/watch?v=AbixY3W8ayo)
+(Jan Jongboom - May 23, 2014)
+
 [Service Worker - first draft published](http://jakearchibald.com/2014/service-worker-first-draft/)
 (Jake Archibald - May 8, 2014)
 
