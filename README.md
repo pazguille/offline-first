@@ -8,6 +8,9 @@
 
 ## Posts
 
+[How Google and Mozilla are aiming to make web apps shine offline](http://www.techrepublic.com/article/the-web-takes-a-step-closer-to-becoming-a-computing-platform-with-simd/)
+(Nick Heath - October 30, 2014)
+
 [Introducing Hoodie: Full Stack App Development for Front-End Developers](http://www.toptal.com/front-end/introducing-hoodie-full-stack-app-development-for-front-end-developers)
 (Alvaro Oliveira - September 24, 2014)
 
