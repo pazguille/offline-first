@@ -11,6 +11,9 @@
 [How Google and Mozilla are aiming to make web apps shine offline](http://www.techrepublic.com/article/how-google-and-mozilla-are-aiming-to-make-web-apps-work-as-well-offline-as-on/)
 (Nick Heath - October 30, 2014)
 
+[Offline-first is people-first](http://nolanlawson.com/2014/10/03/offline-first-is-people-first)
+(Nolan Lawson - October 3, 2014)
+
 [Introducing Hoodie: Full Stack App Development for Front-End Developers](http://www.toptal.com/front-end/introducing-hoodie-full-stack-app-development-for-front-end-developers)
 (Alvaro Oliveira - September 24, 2014)
 
