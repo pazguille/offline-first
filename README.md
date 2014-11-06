@@ -34,6 +34,9 @@
 [Breaking Development: Offline First is the new Mobile First](http://www.lukew.com/ff/entry.asp?1902)
 (Luke Wroblewski - July 29, 2014)
 
+[Offline Patterns](https://www.ibm.com/developerworks/community/blogs/worklight/entry/offline_patterns?lang=en)
+(Carlos Andreu - July 3, 2014)
+
 [Offline Web Applications](https://www.youtube.com/watch?v=AbixY3W8ayo)
 (Jan Jongboom - May 23, 2014)
 
