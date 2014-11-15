@@ -1,7 +1,7 @@
 # Offline-First Web Apps
 
 ## Intro
-> "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean? 
+> "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
 > via http://www.html5rocks.com/en/features/offline
 
@@ -202,6 +202,8 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [Offline.js](http://github.hubspot.com/offline/docs/welcome): An awesome JavaScript library to improve the experience of your app when your users lose connection.
 
 [Hoodie](http://hood.ie/): Hoodie is an Offline First and noBackend architecture for frontend-only web apps on the web and on iOS.
+
+[Offline States](http://offlinestat.es/): What show applications when we have not internet connection.
 
 
 ## People
