@@ -95,8 +95,11 @@
 [Offline Support is Valuable, and You Can’t Add it Later](http://aanandprasad.com/articles/offline/)
 (Aanand Prasad - August 13, 2011)
 
+[5 Reasons Why There are no Killer Offline Web Applications](http://www.sitepoint.com/killer-offline-web-applications/)
+(Craig Buckler - February 16, 2010
+
 [Offline Web Applications](https://hacks.mozilla.org/2010/01/offline-web-applications/)
-(Paul Rouget - January 7, 2010)
+(Paul Rouget - January 7, 2010))
 
 ## Talks
 
