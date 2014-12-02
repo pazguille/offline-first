@@ -193,6 +193,8 @@
 
 ## Tools
 
+[Hyperboot](http://hyperboot.org/): Offline webapp bootloader.
+
 [MakeDrive](https://github.com/mozilla/makedrive): A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
 See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDrive) for background info.
 
