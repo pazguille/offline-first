@@ -8,6 +8,9 @@
 
 ## Posts
 
+[Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+(Matt Gaunt - December 1, 2014)
+
 [offline decentralized single sign-on in the browser](http://substack.net/offline_decentralized_single_sign_on_in_the_browser)
 (James 'substack' Halliday - November 27, 2014)
 
