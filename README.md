@@ -109,6 +109,9 @@
 
 ## Talks
 
+[Leveraging hood.ie to build for the offline state](http://de.slideshare.net/MarcelKalveram/codemotion-talk-41932602)
+(Marcel Kalveram - November 24, 2014)
+
 [Working connected to create offline](https://www.youtube.com/watch?v=fj49cSQ986k)
 (Christian Heilmann - November 24, 2014)
 
