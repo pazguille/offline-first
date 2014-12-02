@@ -8,6 +8,9 @@
 
 ## Posts
 
+[Making Your App Work Offline: Tips and Cautionary Tales](http://quickleft.com/blog/making-your-app-work-offline-tips-and-cautionary-tales)
+(David Aragon  - November 11, 2014)
+
 [How Google and Mozilla are aiming to make web apps shine offline](http://www.techrepublic.com/article/how-google-and-mozilla-are-aiming-to-make-web-apps-work-as-well-offline-as-on/)
 (Nick Heath - October 30, 2014)
 
