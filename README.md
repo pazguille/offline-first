@@ -8,6 +8,9 @@
 
 ## Posts
 
+[offline decentralized single sign-on in the browser](http://substack.net/offline_decentralized_single_sign_on_in_the_browser)
+(James 'substack' Halliday - November 27, 2014)
+
 [Making Your App Work Offline: Tips and Cautionary Tales](http://quickleft.com/blog/making-your-app-work-offline-tips-and-cautionary-tales)
 (David Aragon  - November 11, 2014)
 
