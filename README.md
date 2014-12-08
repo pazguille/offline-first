@@ -8,6 +8,9 @@
 
 ## Posts
 
+[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
+(Cesar William Alvarenga - December 8, 2014)
+
 [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 (Matt Gaunt - December 1, 2014)
 
