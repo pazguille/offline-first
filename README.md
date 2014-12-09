@@ -8,6 +8,9 @@
 
 ## Posts
 
+[The next UX challenge on the web: gaining offline trust](http://christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
+(Christian Heilmann -  December 8th, 2014)
+
 [Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
 (Cesar William Alvarenga - December 8, 2014)
 
