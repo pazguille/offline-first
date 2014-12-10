@@ -8,6 +8,9 @@
 
 ## Posts
 
+[The offline cookbook](http://jakearchibald.com/2014/offline-cookbook/)
+(Jake Archibald - December 9, 2014)
+
 [The next UX challenge on the web: gaining offline trust](http://christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
 (Christian Heilmann -  December 8th, 2014)
 
