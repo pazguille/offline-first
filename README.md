@@ -130,6 +130,9 @@
 [Working connected to create offline](https://www.youtube.com/watch?v=fj49cSQ986k)
 (Christian Heilmann - November 24, 2014)
 
+[Let's Take Drupal Offline!](http://www.slideshare.net/dickolsson/lets-take-drupal-offline-41650712)
+(Dick Olsson - November 17, 2014)
+
 [Offline-first web apps - Velocity EU 2014](http://www.slideshare.net/andrewsmatt/velocity-eu-2014)
 (Matt Andrews - November 17, 2014)
 
