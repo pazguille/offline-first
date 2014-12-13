@@ -8,11 +8,14 @@
 
 ## Posts
 
+[PSA: Service Workers are Coming](http://infrequently.org/2014/12/psa-service-workers-are-coming)
+(Alex Russell - December 11, 2014)
+
 [The offline cookbook](http://jakearchibald.com/2014/offline-cookbook/)
 (Jake Archibald - December 9, 2014)
 
 [The next UX challenge on the web: gaining offline trust](http://christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
-(Christian Heilmann -  December 8th, 2014)
+(Christian Heilmann -  December 8, 2014)
 
 [Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
 (Cesar William Alvarenga - December 8, 2014)
