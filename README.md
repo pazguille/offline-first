@@ -14,6 +14,9 @@
 
 ## Posts
 
+[ServiceWorker is available in Chrome 40 beta](https://plus.google.com/+IlyaGrigorik/posts/WPZsWr4QGqR)
+(Ilya Grigorik - December 11, 2014)
+
 [PSA: Service Workers are Coming](http://infrequently.org/2014/12/psa-service-workers-are-coming)
 (Alex Russell - December 11, 2014)
 
