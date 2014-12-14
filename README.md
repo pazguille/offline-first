@@ -56,6 +56,9 @@
 [Introducing MakeDrive](http://blog.humphd.org/introducing-makedrive/)
 (David Humphrey - August 25, 2014)
 
+[Taking your Worklight apps offline](https://medium.com/@papasimons/taking-your-worklight-apps-offline-e8c2c2d8533a)
+(Gideon Simons - August 19, 2014)
+
 [Working offline](https://developer.mozilla.org/en-US/Apps/Build/Offline)
 (August 12, 2014)
 
