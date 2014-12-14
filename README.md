@@ -5,6 +5,9 @@
 
 > via http://www.html5rocks.com/en/features/offline
 
+## Books
+[Offline First: The book (draft)](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf)
+(by John Allsopp)
 
 ## Posts
 
