@@ -9,6 +9,9 @@
 [Offline First: The book (draft)](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf)
 (by John Allsopp)
 
+[Pro HTML5 Programming - Chapter 12: Creating HTML5 Offline Web Applications](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html)
+(by Peter Lubbers, Brian Albers and Frank Salim)
+
 ## Posts
 
 [PSA: Service Workers are Coming](http://infrequently.org/2014/12/psa-service-workers-are-coming)
