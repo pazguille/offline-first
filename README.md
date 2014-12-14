@@ -251,6 +251,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 - [tofumatt](https://github.com/tofumatt)
 - [Jake Archibald](https://github.com/jakearchibald)
 - [Christian Heilmann](https://twitter.com/codepo8)
+- [John Allsopp](https://twitter.com/johnallsopp)
 
 ## Maintained by
 - Guille Paz (Front-end developer | Web standards lover)
