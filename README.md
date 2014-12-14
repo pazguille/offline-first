@@ -5,13 +5,6 @@
 
 > via http://www.html5rocks.com/en/features/offline
 
-## Books
-[Offline First: The book (draft)](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf)
-(by John Allsopp)
-
-[Pro HTML5 Programming - Chapter 12: Creating HTML5 Offline Web Applications](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html)
-(by Peter Lubbers, Brian Albers and Frank Salim)
-
 ## Posts
 
 [ServiceWorker is available in Chrome 40 beta](https://plus.google.com/+IlyaGrigorik/posts/WPZsWr4QGqR)
@@ -258,6 +251,12 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Offline States](http://offlinestat.es/): What show applications when we have not internet connection.
 
+## Books
+[Offline First: The book (draft)](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf)
+(by John Allsopp)
+
+[Pro HTML5 Programming - Chapter 12: Creating HTML5 Offline Web Applications](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html)
+(by Peter Lubbers, Brian Albers and Frank Salim)
 
 ## People
 - [tofumatt](https://github.com/tofumatt)
