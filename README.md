@@ -127,6 +127,9 @@
 
 ## Talks
 
+[Offline First](http://www.webdirections.org/speakeasy/presentations/SmashingOffline/offline.html)
+(John Allsopp - December 12, 2014)
+
 [Leveraging hood.ie to build for the offline state](http://de.slideshare.net/MarcelKalveram/codemotion-talk-41932602)
 (Marcel Kalveram - November 24, 2014)
 
