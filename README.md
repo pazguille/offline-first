@@ -130,6 +130,9 @@
 [Offline Web Applications](https://hacks.mozilla.org/2010/01/offline-web-applications/)
 (Paul Rouget - January 7, 2010))
 
+[Offline-first web app design](https://unhosted.org/practice/29/Offline-first-web-app-design.html)
+(Michiel B. de Jong - 2011)
+
 ## Talks
 
 [Offline First](http://www.webdirections.org/speakeasy/presentations/SmashingOffline/offline.html)
