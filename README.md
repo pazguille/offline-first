@@ -135,6 +135,9 @@
 
 ## Talks
 
+[Building Offline First Applications with Backbone](https://www.youtube.com/watch?v=Zb01eNS6-no)
+(Gregor Martynus - December 17, 2014)
+
 [Offline First](http://www.webdirections.org/speakeasy/presentations/SmashingOffline/offline.html)
 (John Allsopp - December 12, 2014)
 
