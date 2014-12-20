@@ -52,6 +52,9 @@
 [Introducing MakeDrive](http://blog.humphd.org/introducing-makedrive/)
 (David Humphrey - August 25, 2014)
 
+[Worklight Authentication done right with AngularJs](https://medium.com/@papasimons/worklight-authentication-done-right-with-angularjs-768aa933329c)
+(Gideon Simons - August 22, 2014)
+
 [Taking your Worklight apps offline](https://medium.com/@papasimons/taking-your-worklight-apps-offline-e8c2c2d8533a)
 (Gideon Simons - August 19, 2014)
 
