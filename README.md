@@ -136,6 +136,9 @@
 [Offline-first web app design](https://unhosted.org/practice/29/Offline-first-web-app-design.html)
 (Michiel B. de Jong - 2011)
 
+[Offline Web Apps with Meteor](http://blog.groupbuddies.com/posts/45-offline-web-apps-with-meteor)
+(Gabriel Poça, November 26, 2014)
+
 ## Talks
 
 [Building Offline First Applications with Backbone](https://www.youtube.com/watch?v=Zb01eNS6-no)
