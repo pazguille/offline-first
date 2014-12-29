@@ -207,6 +207,9 @@
 [Network connectivity: optional](https://www.youtube.com/watch?v=Z7sRMg0f5Hk)
 (Jake Archibald - December 4, 2013)
 
+[Surviving the Offline Apocalypse](https://www.youtube.com/watch?v=Qg75x08Mtcs)
+(John Kleinschmidt - Novembe 29, 2014)
+
 [Offline First](https://www.youtube.com/watch?v=7mdG-iAizVc)
 (Jan Lehnardt - May 27, 2013)
 
