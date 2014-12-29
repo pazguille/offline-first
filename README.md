@@ -69,6 +69,9 @@
 [Offline Patterns](https://www.ibm.com/developerworks/community/blogs/worklight/entry/offline_patterns?lang=en)
 (Carlos Andreu - July 3, 2014)
 
+[Service Workers: Offline Now(ish)!](https://www.youtube.com/watch?v=BKD7ZLRi9HI)
+(Alex Russell - May 21, 2014)
+
 [Offline Web Applications](https://www.youtube.com/watch?v=AbixY3W8ayo)
 (Jan Jongboom - May 23, 2014)
 
