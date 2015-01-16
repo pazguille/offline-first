@@ -7,6 +7,9 @@
 
 ## Posts
 
+[A simple Service Worker app](http://blog.lamplightdev.com/2015/01/06/A-Simple-ServiceWorker-App/)
+(Chris Haynes - January 6, 2015)
+
 [ServiceWorker is available in Chrome 40 beta](https://plus.google.com/+IlyaGrigorik/posts/WPZsWr4QGqR)
 (Ilya Grigorik - December 11, 2014)
 
