@@ -153,6 +153,9 @@
 
 ## Talks
 
+[ServiceWorkers and High Performance Offline Apps](https://huffduffer.com/AlanDalton/202718)
+(AlanDalton - January 13, 2015)
+
 [Building Offline First Applications with Backbone](https://www.youtube.com/watch?v=Zb01eNS6-no)
 (Gregor Martynus - December 17, 2014)
 
