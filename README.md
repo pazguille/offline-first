@@ -151,6 +151,9 @@
 [Offline Web Apps with Meteor](http://blog.groupbuddies.com/posts/45-offline-web-apps-with-meteor)
 (Gabriel Poça, November 26, 2014)
 
+[Let's take this offline](http://diveintohtml5.info/offline.html)
+(Mark Pilgrim)
+
 ## Talks
 
 [ServiceWorkers and High Performance Offline Apps](https://huffduffer.com/AlanDalton/202718)
