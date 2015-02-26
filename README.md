@@ -159,6 +159,9 @@
 
 ## Talks
 
+[TGIF - Offline-first](http://codekult.github.io/tgif-offline-first/)
+(Diego Calderón - January 30, 2015)
+
 [ServiceWorkers and High Performance Offline Apps](https://huffduffer.com/AlanDalton/202718)
 (AlanDalton - January 13, 2015)
 
