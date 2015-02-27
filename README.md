@@ -267,6 +267,8 @@
 
 ## Tools
 
+[simple-serviceworker-tutorial](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
+
 [Hyperboot](http://hyperboot.org/): Offline webapp bootloader.
 
 [MakeDrive](https://github.com/mozilla/makedrive): A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
