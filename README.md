@@ -159,6 +159,9 @@
 
 ## Talks
 
+[Service Workers on vacay...](https://docs.google.com/presentation/d/1LUuMYDi1ssmslQKnnX3cwrdLVy2YCqyww3PBtqEP0q8/edit)
+(Natasha Rooney - March 6, 2015)
+
 [TGIF - Offline-first](http://codekult.github.io/tgif-offline-first/)
 (Diego Calderón - January 30, 2015)
 
