@@ -161,6 +161,8 @@
 (Mark Pilgrim)
 
 ## Talks
+[Service Worker and the Offline Web](http://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk)
+(Lewis Cowper - March 7, 2015)
 
 [Service Workers on vacay...](https://docs.google.com/presentation/d/1LUuMYDi1ssmslQKnnX3cwrdLVy2YCqyww3PBtqEP0q8/edit)
 (Natasha Rooney - March 6, 2015)
