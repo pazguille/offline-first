@@ -7,6 +7,9 @@
 
 ## Posts
 
+[Offline is not just another mobile feature](http://betanews.com/2015/03/04/offline-is-not-just-another-mobile-feature/)
+(Chuck Ganapathi - March 4, 2015)
+
 [Offline data in the browser](http://lattapartners.com/offline-data-in-the-browser/)
 (Assaf Weinberg - March, 2015)
 
