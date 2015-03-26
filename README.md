@@ -16,6 +16,9 @@
 [Offline-first, fast, with the sw-precache module](http://updates.html5rocks.com/2015/02/offline-first-with-sw-precache)
 (Jeff Posnick - February 23, 2015)
 
+[Three takeaways for web developers after two weeks of painfully slow internet](https://medium.com/@GaborLenard/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e)
+(Gabor Lenard - January 25, 2015)
+
 [Offline first: as simple as unplug & play?](http://blog.ae.be/offline-first-simple-unplug-play/)
 (Thomas Anciaux - January 15, 2015)
 
