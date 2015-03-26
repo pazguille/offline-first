@@ -7,6 +7,9 @@
 
 ## Posts
 
+[Offline data in the browser](http://lattapartners.com/offline-data-in-the-browser/)
+(Assaf Weinberg - March, 2015)
+
 [Offline-first, fast, with the sw-precache module](http://updates.html5rocks.com/2015/02/offline-first-with-sw-precache)
 (Jeff Posnick - February 23, 2015)
 
