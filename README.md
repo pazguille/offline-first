@@ -316,6 +316,11 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [Pro HTML5 Programming - Chapter 12: Creating HTML5 Offline Web Applications](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html)
 (by Peter Lubbers, Brian Albers and Frank Salim)
 
+## Showcase
+[Minutes.io](minutes.io): Awesome offline first minute taking app built with [Hoodie](http://hood.ie/).
+
+[Swarm+React TodoMVC](http://ppyr.us/): Awesome offline implementation of [TodoMVC](todomvc.com) with real-time sync.
+
 ## People
 - [tofumatt](https://github.com/tofumatt)
 - [Jake Archibald](https://github.com/jakearchibald)
