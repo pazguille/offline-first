@@ -317,9 +317,11 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 (by Peter Lubbers, Brian Albers and Frank Salim)
 
 ## Showcase
-[Minutes.io](minutes.io): Awesome offline first minute taking app built with [Hoodie](http://hood.ie/).
+[Minutes.io](http://minutes.io): Awesome offline first minute taking app built with [Hoodie](http://hood.ie/).
 
-[Swarm+React TodoMVC](http://ppyr.us/): Awesome offline implementation of [TodoMVC](todomvc.com) with real-time sync.
+[Swarm+React TodoMVC](http://ppyr.us/): Awesome offline implementation of [TodoMVC](http://todomvc.com) with real-time sync.
+
+[2048](https://gabrielecirulli.github.io/2048/): The original 2048 is a great game to pin to your homescreen. 
 
 ## People
 - [tofumatt](https://github.com/tofumatt)
