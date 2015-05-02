@@ -7,6 +7,9 @@
 
 ## Posts
 
+[Offline Data in the Browser](http://lattapartners.com/offline-data-in-the-browser/)
+(Assaf Weinberg - March, 2015)
+
 [Offline: When Your Apps Can’t Connect to the Internet](https://medium.com/user-experience-design-1/offline-93c2f8396124)
 (Daniel Sauble - March 29, 2015)
 
