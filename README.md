@@ -7,6 +7,9 @@
 
 ## Posts
 
+[Offline: When Your Apps Can’t Connect to the Internet](https://medium.com/user-experience-design-1/offline-93c2f8396124)
+(Daniel Sauble - March 29, 2015)
+
 [Offline is not just another mobile feature](http://betanews.com/2015/03/04/offline-is-not-just-another-mobile-feature/)
 (Chuck Ganapathi - March 4, 2015)
 
