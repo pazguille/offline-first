@@ -173,6 +173,10 @@
 (Mark Pilgrim)
 
 ## Talks
+
+[Say Hello to Offline First](https://www.youtube.com/watch?v=ZsMS_sviJs0)
+(Ola Gasidlo - March 26, 2015)
+
 [Service Worker and the Offline Web](http://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk)
 (Lewis Cowper - March 7, 2015)
 
