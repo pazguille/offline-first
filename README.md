@@ -19,6 +19,9 @@
 [Offline-first, fast, with the sw-precache module](http://updates.html5rocks.com/2015/02/offline-first-with-sw-precache)
 (Jeff Posnick - February 23, 2015)
 
+[Offline is Not a Feature](http://www.formotus.com/17221/blog-mobility/offline-is-not-a-feature)
+(February 16, 2015)
+
 [Three takeaways for web developers after two weeks of painfully slow internet](https://medium.com/@GaborLenard/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e)
 (Gabor Lenard - January 25, 2015)
 
