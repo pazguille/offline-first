@@ -177,6 +177,9 @@
 [Say Hello to Offline First](https://www.youtube.com/watch?v=ZsMS_sviJs0)
 (Ola Gasidlo - March 26, 2015)
 
+[The UX Of Offline-First](https://vimeo.com/125479288)
+(Jake Archibald - March 18, 2015)
+
 [Service Worker and the Offline Web](http://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk)
 (Lewis Cowper - March 7, 2015)
 
