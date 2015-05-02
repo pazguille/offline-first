@@ -177,6 +177,9 @@
 
 ## Talks
 
+[HOLY SYNC: a sane approach to offline-first cross-platform data syncing](https://speakerdeck.com/takhion/holy-sync-a-sane-approach-to-offline-first-cross-platform-data-syncing)
+(Eugenio Marletti - April 10, 2015)
+
 [Say Hello to Offline First](https://www.youtube.com/watch?v=ZsMS_sviJs0)
 (Ola Gasidlo - March 26, 2015)
 
