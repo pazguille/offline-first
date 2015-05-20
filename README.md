@@ -177,6 +177,9 @@
 
 ## Talks
 
+[Offline first, the painless way](http://de.slideshare.net/MarcelKalveram/offline-first-the-painless-way)
+(Marcel Kalveram - May 17, 2015)
+
 [HOLY SYNC: a sane approach to offline-first cross-platform data syncing](https://speakerdeck.com/takhion/holy-sync-a-sane-approach-to-offline-first-cross-platform-data-syncing)
 (Eugenio Marletti - April 10, 2015)
 
