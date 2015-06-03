@@ -10,6 +10,9 @@
 [Getting Appcache’s Fallback to work, crossbrowser](http://www.iandevlin.com/blog/2015/06/html5/getting-appcaches-fallback-to-work-crossbrowser)
 (Ian Devlin - June 1, 2015)
 
+[Offline Data Synchronization in Ionic](http://frontmag.no/artikler/utvikling/offline-data-synchronization-ionic)
+(Marco Fernandes - April 29, 2015)
+
 [Offline Data in the Browser](http://lattapartners.com/offline-data-in-the-browser/)
 (Assaf Weinberg - March, 2015)
 
