@@ -28,6 +28,9 @@
 [Offline is Not a Feature](http://www.formotus.com/17221/blog-mobility/offline-is-not-a-feature)
 (February 16, 2015)
 
+[The Right and Wrong Strategies When Taking Your App Offline](http://appdevelopermagazine.com/2356/2015/2/9/The-Right-and-Wrong-Strategies-When-Taking-Your-App-Offline/)
+(Martin Heller - February 9, 2015)
+
 [Three takeaways for web developers after two weeks of painfully slow internet](https://medium.com/@GaborLenard/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e)
 (Gabor Lenard - January 25, 2015)
 
