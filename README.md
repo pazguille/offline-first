@@ -13,6 +13,9 @@
 [Mobile Apps Offline Support](http://www.infoq.com/articles/mobile-apps-offline-support)
 (Gustavo Machado - May 29, 2015)
 
+[Making react-europe.org work offline with Service Workers and free SSL from Cloudflare](https://medium.com/@patcito/making-react-europe-org-work-offline-with-service-workers-f54fb0457048)
+(Patrick Aljord - May 14, 2015)
+
 [Offline Data Synchronization in Ionic](http://frontmag.no/artikler/utvikling/offline-data-synchronization-ionic)
 (Marco Fernandes - April 29, 2015)
 
