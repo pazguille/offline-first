@@ -195,6 +195,9 @@
 [Building Offline-Enabled Apps with PouchDB](https://speakerdeck.com/bradleyholt/building-offline-enabled-apps-with-pouchdb-at-php-tek-2015)
 (Bradley Holt - May 20, 2015)
 
+[Naked and afraid Offline Mobile](http://www.slideshare.net/ColdFusionConference/naked-and-afraid-48288396)
+(Matt Woodward - May 18, 2015)
+
 [Offline first, the painless way](http://de.slideshare.net/MarcelKalveram/offline-first-the-painless-way)
 (Marcel Kalveram - May 17, 2015)
 
