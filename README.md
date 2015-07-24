@@ -201,6 +201,9 @@
 [Offline-first mobile web apps with PouchDB, IBM Cloudant, and IBM Bluemix](http://www.slideshare.net/IBMBluemix/offlinefirst-mobile-web-apps-with-pouchdb-ibm-cloudant-and-ibm-bluemix)
 (Bradley Holt - Jun 22, 2015)
 
+[Taking Ember Offline](https://www.youtube.com/watch?t=20&v=VhZS4n2DMyU)
+(John Kleinschmidt - Jun 16, 2015)
+
 [Building Offline-Enabled Apps with PouchDB](https://speakerdeck.com/bradleyholt/building-offline-enabled-apps-with-pouchdb-at-php-tek-2015)
 (Bradley Holt - May 20, 2015)
 
