@@ -204,6 +204,9 @@
 
 ## Talks
 
+[The Once & Future Web](https://www.youtube.com/watch?v=RQQNNP8tFro)
+(Jake Archibald - Jul 28, 2015)
+
 [Go Offline](https://www.youtube.com/watch?v=BucGrYACJdQ)
 (Rob Dodson - Jun 29, 2015)
 
