@@ -7,6 +7,9 @@
 
 ## Posts
 
+[Service Worker Meeting Highlights](https://blog.wanderview.com/blog/2015/07/28/service-worker-meeting-highlights/)
+(Ben Kelly - Jul 28, 2015)
+
 [Q&A: Offline first, not just mobile first says Couchbase](http://www.cbronline.com/news/mobility/apps/qa-offline-first-not-just-mobile-first-says-couchbase-4609613)
 (James Nunns - Jun 26, 2015)
 
