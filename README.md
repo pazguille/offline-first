@@ -207,6 +207,9 @@
 [Go Offline](https://www.youtube.com/watch?v=BucGrYACJdQ)
 (Rob Dodson - Jun 29, 2015)
 
+[Offline-First Web Applications](https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent?slide=id.gb7f243163_0_53)
+(Peter Müller - Jun 27, 2015)
+
 [Offline-first mobile web apps with PouchDB, IBM Cloudant, and IBM Bluemix](http://www.slideshare.net/IBMBluemix/offlinefirst-mobile-web-apps-with-pouchdb-ibm-cloudant-and-ibm-bluemix)
 (Bradley Holt - Jun 22, 2015)
 
