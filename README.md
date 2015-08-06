@@ -7,6 +7,9 @@
 
 ## Posts
 
+[Let's make Offline Web Applications secure!](http://sakurity.com/blog/2015/07/28/appcache.html)
+(Egor Homakov - Jul 28, 2015)
+
 [Service Worker Meeting Highlights](https://blog.wanderview.com/blog/2015/07/28/service-worker-meeting-highlights/)
 (Ben Kelly - Jul 28, 2015)
 
