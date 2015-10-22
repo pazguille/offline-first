@@ -231,6 +231,9 @@
 [Offline first, the painless way](http://de.slideshare.net/MarcelKalveram/offline-first-the-painless-way)
 (Marcel Kalveram - May 17, 2015)
 
+[noBackend e Offline First: focusing on creating experiences (pt-br)](https://speakerdeck.com/joselitojunior/nobackend-e-offline-first-foque-em-criar-experiencias-number-frontinfortaleza)
+(Joselito Júnior - May 16, 2015)
+
 [Holy sync](https://www.youtube.com/watch?v=Yp1h3cd8dsg)
 (Eugenio Marletti - May 5, 2015)
 
