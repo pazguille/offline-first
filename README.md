@@ -202,6 +202,9 @@
 [Let's take this offline](http://diveintohtml5.info/offline.html)
 (Mark Pilgrim)
 
+[Don’t Wait for ServiceWorker: Adding Offline Support with One-Line](http://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline)
+(Kenneth Ormandy, October 14, 2015)
+
 ## Talks
 
 [The Once & Future Web](https://www.youtube.com/watch?v=RQQNNP8tFro)
