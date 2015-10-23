@@ -216,6 +216,9 @@
 
 ## Talks
 
+[Offline-First Web Applications](https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent)
+(Peter Müller - 2015)
+
 [Server in your Client - Service Workers' rise to fame](http://slides.com/flaki/server-in-the-client#/)
 (Szmozsánszky István - Oct 7, 2015)
 
@@ -438,4 +441,4 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 ## License
 Licensed under the MIT license.
 
-Copyright (c) 2014 [@pazguille](http://twitter.com/pazguille).
+Copyright (c) 2015 [@pazguille](http://twitter.com/pazguille).
