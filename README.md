@@ -366,6 +366,8 @@
 
 ## Tools
 
+[Haywire](https://github.com/omnia-salud/haywire): A minimal javascript library for network issues detection.
+
 [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox): A collection of tools for service workers.
 
 [UpUp](https://www.talater.com/upup/): An Offline First library designed to be the easiest way to add offline capabilities to a site.
