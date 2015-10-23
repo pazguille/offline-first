@@ -216,6 +216,9 @@
 
 ## Talks
 
+[Server in your Client - Service Workers' rise to fame](http://slides.com/flaki/server-in-the-client#/)
+(Szmozsánszky István - Oct 7, 2015)
+
 [Offline First Podcast](https://www.youtube.com/watch?v=tilH8jgLrXQ)
 (The Web Platform Podcast - Sep 8, 2015)
 
