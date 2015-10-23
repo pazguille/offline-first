@@ -7,6 +7,9 @@
 
 ## Posts
 
+[Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+(MDN - Oct 18, 2015)
+
 [Don’t Wait for ServiceWorker: Adding Offline Support with One-Line](http://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline)
 (Kenneth Ormandy - Oct 14, 2015)
 
