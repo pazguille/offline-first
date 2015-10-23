@@ -7,6 +7,9 @@
 
 ## Posts
 
+[Taking the web offline with service workers](https://mobiforge.com/design-development/taking-web-offline-service-workers)
+(Ruadhan O'Donoghue - Oct 21, 2015)
+
 [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 (MDN - Oct 18, 2015)
 
