@@ -366,6 +366,8 @@
 
 ## Tools
 
+[sw-toolbox](https://github.com/GoogleChrome/sw-toolbox): A collection of tools for service workers.
+
 [UpUp](https://www.talater.com/upup/): An Offline First library designed to be the easiest way to add offline capabilities to a site.
 
 [simple-serviceworker-tutorial](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
