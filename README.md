@@ -13,6 +13,9 @@
 [Don’t Wait for ServiceWorker: Adding Offline Support with One-Line](http://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline)
 (Kenneth Ormandy - Oct 14, 2015)
 
+[How Do We Get It Done, Now?](http://alistapart.com/column/how-do-we-get-it-done-now)
+(Lyza Danger Gardner - Sep 30, 2015)
+
 [Let's make Offline Web Applications secure!](http://sakurity.com/blog/2015/07/28/appcache.html)
 (Egor Homakov - Jul 28, 2015)
 
