@@ -210,6 +210,9 @@
 
 ## Talks
 
+[Offline First Podcast](https://www.youtube.com/watch?v=tilH8jgLrXQ)
+(The Web Platform Podcast - Sep 8, 2015)
+
 [The Once & Future Web](https://www.youtube.com/watch?v=RQQNNP8tFro)
 (Jake Archibald - Jul 28, 2015)
 
