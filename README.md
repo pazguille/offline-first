@@ -16,6 +16,9 @@
 [Don’t Wait for ServiceWorker: Adding Offline Support with One-Line](http://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline)
 (Kenneth Ormandy - Oct 14, 2015)
 
+[Service Workers in Production](https://developers.google.com/web/showcase/case-study/service-workers-iowa)
+(Jeff Posnick - Oct 01, 2015)
+
 [How Do We Get It Done, Now?](http://alistapart.com/column/how-do-we-get-it-done-now)
 (Lyza Danger Gardner - Sep 30, 2015)
 
