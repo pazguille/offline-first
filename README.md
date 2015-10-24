@@ -5,6 +5,8 @@
 
 > via http://www.html5rocks.com/en/features/offline
 
+If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
+
 ## Posts
 
 [Taking the web offline with service workers](https://mobiforge.com/design-development/taking-web-offline-service-workers)
