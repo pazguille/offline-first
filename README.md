@@ -1,11 +1,33 @@
-# Offline-First Web Apps
+# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/pazguille/offline-first)
 
-## Intro
+> Useful resources for creating Offline-First web apps
+
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
 > via http://www.html5rocks.com/en/features/offline
 
-If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+
+## Table of Contents
+- [W3C Specification](#w3c-specification)
+- [Newsletter](#newsletter)
+- [Posts](#posts)
+- [Presentations](#presentations)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Tools](#tools)
+- [Books](#books)
+- [Showcase](#showcase)
+- [Who to Follow](#who-to-follow)
+- [Contributing](#contributing)
+
+## W3C Specification
+
+[Offline Web Applications](http://www.w3.org/TR/offline-webapps/)
+[Service Workers](http://www.w3.org/TR/service-workers/)
+
+## Newsletter
+[The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
 
 ## Posts
 
@@ -222,13 +244,10 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 [Don’t Wait for ServiceWorker: Adding Offline Support with One-Line](http://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline)
 (Kenneth Ormandy, October 14, 2015)
 
-## Talks
 
-[Offline-First Web Applications](https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent)
-(Peter Müller - 2015)
+## Presentations
 
-[Server in your Client - Service Workers' rise to fame](http://slides.com/flaki/server-in-the-client#/)
-(Szmozsánszky István - Oct 7, 2015)
+### Videos
 
 [Offline First Podcast](https://www.youtube.com/watch?v=tilH8jgLrXQ)
 (The Web Platform Podcast - Sep 8, 2015)
@@ -239,32 +258,11 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 [Go Offline](https://www.youtube.com/watch?v=BucGrYACJdQ)
 (Rob Dodson - Jun 29, 2015)
 
-[Offline-First Web Applications](https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent?slide=id.gb7f243163_0_53)
-(Peter Müller - Jun 27, 2015)
-
-[Offline-first mobile web apps with PouchDB, IBM Cloudant, and IBM Bluemix](http://www.slideshare.net/IBMBluemix/offlinefirst-mobile-web-apps-with-pouchdb-ibm-cloudant-and-ibm-bluemix)
-(Bradley Holt - Jun 22, 2015)
-
 [Taking Ember Offline](https://www.youtube.com/watch?t=20&v=VhZS4n2DMyU)
 (John Kleinschmidt - Jun 16, 2015)
 
-[Building Offline-Enabled Apps with PouchDB](https://speakerdeck.com/bradleyholt/building-offline-enabled-apps-with-pouchdb-at-php-tek-2015)
-(Bradley Holt - May 20, 2015)
-
-[Naked and afraid Offline Mobile](http://www.slideshare.net/ColdFusionConference/naked-and-afraid-48288396)
-(Matt Woodward - May 18, 2015)
-
-[Offline first, the painless way](http://de.slideshare.net/MarcelKalveram/offline-first-the-painless-way)
-(Marcel Kalveram - May 17, 2015)
-
-[noBackend e Offline First: focusing on creating experiences (pt-br)](https://speakerdeck.com/joselitojunior/nobackend-e-offline-first-foque-em-criar-experiencias-number-frontinfortaleza)
-(Joselito Júnior - May 16, 2015)
-
 [Holy sync](https://www.youtube.com/watch?v=Yp1h3cd8dsg)
 (Eugenio Marletti - May 5, 2015)
-
-[HOLY SYNC: a sane approach to offline-first cross-platform data syncing](https://speakerdeck.com/takhion/holy-sync-a-sane-approach-to-offline-first-cross-platform-data-syncing)
-(Eugenio Marletti - April 10, 2015)
 
 [Say Hello to Offline First](https://www.youtube.com/watch?v=ZsMS_sviJs0)
 (Ola Gasidlo - March 26, 2015)
@@ -272,53 +270,17 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 [The UX Of Offline-First](https://vimeo.com/125479288)
 (Jake Archibald - March 18, 2015)
 
-[Service Worker and the Offline Web](http://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk)
-(Lewis Cowper - March 7, 2015)
-
-[Service Workers on vacay...](https://docs.google.com/presentation/d/1LUuMYDi1ssmslQKnnX3cwrdLVy2YCqyww3PBtqEP0q8/edit)
-(Natasha Rooney - March 6, 2015)
-
 [The Web's Future is Offline](https://vimeo.com/120474703)
 (John Allsopp - February 24, 2015)
-
-[TGIF - Offline-first](http://codekult.github.io/tgif-offline-first/)
-(Diego Calderón - January 30, 2015)
-
-[ServiceWorkers and High Performance Offline Apps](https://huffduffer.com/AlanDalton/202718)
-(AlanDalton - January 13, 2015)
 
 [Building Offline First Applications with Backbone](https://www.youtube.com/watch?v=Zb01eNS6-no)
 (Gregor Martynus - December 17, 2014)
 
-[Offline First](http://www.webdirections.org/speakeasy/presentations/SmashingOffline/offline.html)
-(John Allsopp - December 12, 2014)
-
-[Leveraging hood.ie to build for the offline state](http://de.slideshare.net/MarcelKalveram/codemotion-talk-41932602)
-(Marcel Kalveram - November 24, 2014)
-
 [Working connected to create offline](https://www.youtube.com/watch?v=fj49cSQ986k)
 (Christian Heilmann - November 24, 2014)
 
-[Let's Take Drupal Offline!](http://www.slideshare.net/dickolsson/lets-take-drupal-offline-41650712)
-(Dick Olsson - November 17, 2014)
-
-[Offline-first web apps - Velocity EU 2014](http://www.slideshare.net/andrewsmatt/velocity-eu-2014)
-(Matt Andrews - November 17, 2014)
-
-[Offline first <3](https://speakerdeck.com/zoepage/ayb14-offline-first-1)
-(Ola Gasidlo - October 17, 2014)
-
 [The ServiceWorker is coming, look busy!](https://www.youtube.com/watch?v=Rr2vXDIVerI)
 (Jake Archibald - September 21, 2014)
-
-[Scaling Down: The Offline First Story](https://speakerdeck.com/wohali/scaling-down-the-offline-first-story)
-(Joan Touzet - September 16, 2014)
-
-[Status Web Offline](http://www.infoq.com/presentations/status-web-offline)
-(Caolan McMahon -  August 21, 2014)
-
-[Look Ma, No Connections! Building Offline-capable Web Apps with HTML5](http://www.infoq.com/presentations/html5-offline-storage)
-(Bijan Vaez -  August 1, 2014)
 
 [The Next Challenge of the Web is Us](https://www.youtube.com/watch?v=QPRqQH_30hU&t=22m53s)
 (Christian Heilmann - August 1, 2014)
@@ -334,18 +296,6 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 [The Offline Web](https://www.youtube.com/watch?v=nnLBdFLo2fc)
 (Dale Harvey - June 20, 2014)
-
-[Say hello to offline first!](https://speakerdeck.com/zoepage/say-hello-to-offline-first)
-(Ola Gasidlo - May 19, 2014)
-
-[Offline First (Web) Apps](https://speakerdeck.com/espylaub/offline-first-web-apps)
-(Alex Feyerke - May 2, 2014)
-
-[Offline First – Made Simple!](https://speakerdeck.com/gr2m/offline-first-made-simple)
-(Gregor Martynus - April 24, 2014)
-
-[Offline First Re-Imagining Web Development For The Real World](http://qconlondon.com/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf)
-(Caolan McMahon - March, 2014)
 
 [Bring NoSQL to your mobile](https://www.youtube.com/watch?v=qfC90DQEoeY)
 (Patrick Heneise - December 16, 2013)
@@ -386,6 +336,82 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 [Getting off(line): appcache, localStorage for HTML5 apps that work offline](https://www.youtube.com/watch?v=dN8e-QdYyCk)
 (John Allsopp - July 3, 2012)
 
+### Slides
+
+[Offline-First Web Applications](https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent)
+(Peter Müller - 2015)
+
+[Server in your Client - Service Workers' rise to fame](http://slides.com/flaki/server-in-the-client#/)
+(Szmozsánszky István - Oct 7, 2015)
+
+[Offline-First Web Applications](https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent?slide=id.gb7f243163_0_53)
+(Peter Müller - Jun 27, 2015)
+
+[Offline-first mobile web apps with PouchDB, IBM Cloudant, and IBM Bluemix](http://www.slideshare.net/IBMBluemix/offlinefirst-mobile-web-apps-with-pouchdb-ibm-cloudant-and-ibm-bluemix)
+(Bradley Holt - Jun 22, 2015)
+
+[Building Offline-Enabled Apps with PouchDB](https://speakerdeck.com/bradleyholt/building-offline-enabled-apps-with-pouchdb-at-php-tek-2015)
+(Bradley Holt - May 20, 2015)
+
+[Naked and afraid Offline Mobile](http://www.slideshare.net/ColdFusionConference/naked-and-afraid-48288396)
+(Matt Woodward - May 18, 2015)
+
+[Offline first, the painless way](http://de.slideshare.net/MarcelKalveram/offline-first-the-painless-way)
+(Marcel Kalveram - May 17, 2015)
+
+[noBackend e Offline First: focusing on creating experiences (pt-br)](https://speakerdeck.com/joselitojunior/nobackend-e-offline-first-foque-em-criar-experiencias-number-frontinfortaleza)
+(Joselito Júnior - May 16, 2015)
+
+[HOLY SYNC: a sane approach to offline-first cross-platform data syncing](https://speakerdeck.com/takhion/holy-sync-a-sane-approach-to-offline-first-cross-platform-data-syncing)
+(Eugenio Marletti - April 10, 2015)
+
+[Service Worker and the Offline Web](http://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk)
+(Lewis Cowper - March 7, 2015)
+
+[Service Workers on vacay...](https://docs.google.com/presentation/d/1LUuMYDi1ssmslQKnnX3cwrdLVy2YCqyww3PBtqEP0q8/edit)
+(Natasha Rooney - March 6, 2015)
+
+[TGIF - Offline-first](http://codekult.github.io/tgif-offline-first/)
+(Diego Calderón - January 30, 2015)
+
+[ServiceWorkers and High Performance Offline Apps](https://huffduffer.com/AlanDalton/202718)
+(AlanDalton - January 13, 2015)
+
+[Offline First](http://www.webdirections.org/speakeasy/presentations/SmashingOffline/offline.html)
+(John Allsopp - December 12, 2014)
+
+[Leveraging hood.ie to build for the offline state](http://de.slideshare.net/MarcelKalveram/codemotion-talk-41932602)
+(Marcel Kalveram - November 24, 2014)
+
+[Let's Take Drupal Offline!](http://www.slideshare.net/dickolsson/lets-take-drupal-offline-41650712)
+(Dick Olsson - November 17, 2014)
+
+[Offline-first web apps - Velocity EU 2014](http://www.slideshare.net/andrewsmatt/velocity-eu-2014)
+(Matt Andrews - November 17, 2014)
+
+[Offline first <3](https://speakerdeck.com/zoepage/ayb14-offline-first-1)
+(Ola Gasidlo - October 17, 2014)
+
+[Scaling Down: The Offline First Story](https://speakerdeck.com/wohali/scaling-down-the-offline-first-story)
+(Joan Touzet - September 16, 2014)
+
+[Status Web Offline](http://www.infoq.com/presentations/status-web-offline)
+(Caolan McMahon -  August 21, 2014)
+
+[Look Ma, No Connections! Building Offline-capable Web Apps with HTML5](http://www.infoq.com/presentations/html5-offline-storage)
+(Bijan Vaez -  August 1, 2014)
+
+[Say hello to offline first!](https://speakerdeck.com/zoepage/say-hello-to-offline-first)
+(Ola Gasidlo - May 19, 2014)
+
+[Offline First (Web) Apps](https://speakerdeck.com/espylaub/offline-first-web-apps)
+(Alex Feyerke - May 2, 2014)
+
+[Offline First – Made Simple!](https://speakerdeck.com/gr2m/offline-first-made-simple)
+(Gregor Martynus - April 24, 2014)
+
+[Offline First Re-Imagining Web Development For The Real World](http://qconlondon.com/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf)
+(Caolan McMahon - March, 2014)
 
 ## Tools
 
@@ -434,11 +460,16 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [2048](https://gabrielecirulli.github.io/2048/): The original 2048 is a great game to pin to your homescreen. 
 
-## People
+## Who to Follow
 - [tofumatt](https://github.com/tofumatt)
 - [Jake Archibald](https://github.com/jakearchibald)
 - [Christian Heilmann](https://twitter.com/codepo8)
 - [John Allsopp](https://twitter.com/johnallsopp)
+
+## Contributing
+Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
+
+Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors).
 
 ## Maintained by
 - Guille Paz (Front-end developer | Web standards lover)
