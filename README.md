@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## W3C Specification
 
 [Offline Web Applications](http://www.w3.org/TR/offline-webapps/)
+
 [Service Workers](http://www.w3.org/TR/service-workers/)
 
 ## Newsletter
