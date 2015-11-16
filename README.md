@@ -262,6 +262,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Holy sync](https://www.youtube.com/watch?v=Yp1h3cd8dsg)
 (Eugenio Marletti - May 5, 2015)
 
+[Making Offline Suck Less with Service Workers](https://www.youtube.com/watch?v=nqecpa6MtZ0)
+(Bret Little - Mar 28, 2015)
+
 [Say Hello to Offline First](https://www.youtube.com/watch?v=ZsMS_sviJs0)
 (Ola Gasidlo - Mar 26, 2015)
 
