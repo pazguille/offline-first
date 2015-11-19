@@ -390,6 +390,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline-first web apps - Velocity EU 2014](http://www.slideshare.net/andrewsmatt/velocity-eu-2014)
 (Matt Andrews - Nov 17, 2014)
 
+[Discover ServiceWorker](http://www.slideshare.net/sandropaganotti/discover-serviceworker)
+(Sandro Paganotti - Nov 16, 2014)
+
 [Offline first <3](https://speakerdeck.com/zoepage/ayb14-offline-first-1)
 (Ola Gasidlo - Oct 17, 2014)
 
