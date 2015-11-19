@@ -339,6 +339,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Slides
 
+[Offline First (Web) Apps](https://speakerdeck.com/espylaub/offline-first-web-apps-beuth-hochschule-berlin)
+(Alex Feyerke - Oct 20, 2015)
+
 [Offline-First Web Applications](https://docs.google.com/presentation/d/1gDGIyGtXMSmtT8WsyXj7ADyUjNV679T1BF5QGEKqooc/mobilepresent)
 (Peter Müller - 2015)
 
