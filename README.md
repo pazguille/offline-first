@@ -32,6 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[My first Service Worker](https://medium.com/@adactio/my-first-service-worker-5e5af0b1bdbb#.tsjcjzk2n)
+(Jeremy Keith - Nov 7, 2015)
+
 [Building an offline page for theguardian.com](https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom)
 (Oliver Joseph Ash - Nov 4, 2015)
 
