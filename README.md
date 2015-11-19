@@ -258,7 +258,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 (Craig Buckler - Feb 16, 2010
 
 [Offline Web Applications](https://hacks.mozilla.org/2010/01/offline-web-applications/)
-(Paul Rouget - Jan 7, 2010))
+(Paul Rouget - Jan 7, 2010)
 
 [Let's take this offline](http://diveintohtml5.info/offline.html)
 (Mark Pilgrim)
