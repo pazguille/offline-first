@@ -32,6 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
+(Nicolas Bevacqua - Oct 21, 2015)
+
 [Taking the web offline with service workers](https://mobiforge.com/design-development/taking-web-offline-service-workers)
 (Ruadhan O'Donoghue - Oct 21, 2015)
 
