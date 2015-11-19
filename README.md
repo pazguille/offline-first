@@ -32,6 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Creating Offline-First Web Apps with Service Workers](https://auth0.com/blog/2015/10/30/creating-offline-first-web-apps-with-service-workers/)
+(Ryan Chenkie - Oct 30, 2015)
+
 [Cache sandboxed HTTP requests with Service Worker](https://medium.com/@roman01la/cache-sandboxed-http-requests-with-service-worker-6bb3801237d1#.3jjklzohz)
 (Roman Liutikov - Oct 26, 2015)
 
