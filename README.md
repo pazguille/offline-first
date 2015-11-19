@@ -32,6 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Building an offline page for theguardian.com](https://www.theguardian.com/info/developer-blog/2015/nov/04/building-an-offline-page-for-theguardiancom)
+(Oliver Joseph Ash - Nov 4, 2015)
+
 [Creating Offline-First Web Apps with Service Workers](https://auth0.com/blog/2015/10/30/creating-offline-first-web-apps-with-service-workers/)
 (Ryan Chenkie - Oct 30, 2015)
 
