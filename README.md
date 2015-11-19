@@ -32,6 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Making a Simple Site Work Offline with ServiceWorker](https://css-tricks.com/serviceworker-for-offline/)
+(Nicolas Bevacqua - Nov 10, 2015)
+
 [My first Service Worker](https://medium.com/@adactio/my-first-service-worker-5e5af0b1bdbb#.tsjcjzk2n)
 (Jeremy Keith - Nov 7, 2015)
 
