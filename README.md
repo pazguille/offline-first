@@ -24,8 +24,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## W3C Specification
 
 [Offline Web Applications](http://www.w3.org/TR/offline-webapps/)
+> This specification highlights features (SQL, offline application caching APIs as well as online/offline events, status, and the localStorage API) from HTML5 and provides brief tutorials on how these features might be used to create Web applications that work offline.
 
 [Service Workers](http://www.w3.org/TR/service-workers/)
+> This specification describes a method that enables applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.
+
+[IndexedDB](http://www.w3.org/TR/IndexedDB/)
+> This specification defines APIs for a database of records holding simple values and hierarchical objects. Each record consists of a key and some value. Moreover, the database maintains indexes over records it stores. An application developer directly uses an API to locate records either by their key or by using an index. A query language can be layered on this API. An indexed database can be implemented using a persistent B-tree data structure.
+
+[WebStorage](http://www.w3.org/TR/webstorage/)
+> This specification defines an API for persistent data storage of key-value pair data in Web clients.
 
 ## Newsletter
 [The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
