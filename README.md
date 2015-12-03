@@ -514,10 +514,8 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [pokedex.org](https://www.pokedex.org/): An index of Pokémon, built as a client-side JavaScript webapp. Powered by ServiceWorker, PouchDB, virtual-dom, and web workers.
 
 ## Who to Follow
-- [tofumatt](https://github.com/tofumatt)
-- [Jake Archibald](https://github.com/jakearchibald)
-- [Christian Heilmann](https://twitter.com/codepo8)
-- [John Allsopp](https://twitter.com/johnallsopp)
+- [Matthew Riley](https://github.com/tofumatt): Works at mozilla, creator of localForage (localstroage, IndexedDb and WebSQL Wrapper)
+- [Jake Archibald](https://github.com/jakearchibald): Self described service worker fanatic, works at google helping make offline web apps a thing.
 
 ## Contributing
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
