@@ -32,6 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Reducing Single Point of Failure using Service Workers](http://calendar.perfplanet.com/2015/reducing-single-point-of-failure-using-service-workers/)
+(Dean Hume - Dec 1, 2015)
+
 [Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
 (Nolan Lawson - Nov 23, 2015)
 
