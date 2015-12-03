@@ -32,6 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
+(Nolan Lawson - Nov 23, 2015)
+
 [Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/@addyosmani/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)
 (Addy Osmani - Nov 17, 2015)
 
