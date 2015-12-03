@@ -502,6 +502,8 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [hospitalrun.io](http://hospitalrun.io/): Open source software for developing world hospitals.
 
+[pokedex.org](https://www.pokedex.org/): An index of Pokémon, built as a client-side JavaScript webapp. Powered by ServiceWorker, PouchDB, virtual-dom, and web workers.
+
 ## Who to Follow
 - [tofumatt](https://github.com/tofumatt)
 - [Jake Archibald](https://github.com/jakearchibald)
