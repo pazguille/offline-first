@@ -494,6 +494,8 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [2048](https://gabrielecirulli.github.io/2048/): The original 2048 is a great game to pin to your homescreen. 
 
+[hospitalrun.io](http://hospitalrun.io/): Open source software for developing world hospitals.
+
 ## Who to Follow
 - [tofumatt](https://github.com/tofumatt)
 - [Jake Archibald](https://github.com/jakearchibald)
