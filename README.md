@@ -46,6 +46,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Reducing Single Point of Failure using Service Workers](http://calendar.perfplanet.com/2015/reducing-single-point-of-failure-using-service-workers/)
 (Dean Hume - Dec 1, 2015)
 
+[Building realtime collaborative offline-first apps with React, Redux, PouchDB and WebSockets](http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/)
+(Pedro Teixeira - Nov 30, 2015)
+
 [Cache-limiting in Service Workers …again](https://adactio.com/journal/9888)
 (Jeremy Keith - Nov 29, 2015)
 
