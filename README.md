@@ -103,6 +103,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [How Do We Get It Done, Now?](http://alistapart.com/column/how-do-we-get-it-done-now)
 (Lyza Danger Gardner - Sep 30, 2015)
 
+[Why App Developers Should Think Offline-First](http://mobileenterprise.edgl.com/tech-spotlight/Why-App-Developers-Should-Think-Offline-First101952)
+(Chuck Ganapathi - Aug 30, 2015)
+
 [Let's make Offline Web Applications secure!](http://sakurity.com/blog/2015/07/28/appcache.html)
 (Egor Homakov - Jul 28, 2015)
 
