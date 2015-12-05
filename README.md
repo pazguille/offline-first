@@ -46,6 +46,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
 (Nolan Lawson - Nov 23, 2015)
 
+[Cache-limiting in Service Workers](https://adactio.com/journal/9844)
+(Jeremy Keith - Nov 19, 2015)
+
 [Offline Recipes for Service Workers](https://hacks.mozilla.org/2015/11/offline-service-workers)
 (David Walsh - Nov 19, 2015)
 
