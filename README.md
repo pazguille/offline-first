@@ -306,6 +306,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[There is a client-side proxy (ServiceWorker) in your browser!](https://www.youtube.com/watch?v=etACK2qbHfc)
+(Ilya Grigorik - Nov 16, 2015)
+
 [OnConnectionLost: The life of an offline web application](https://www.youtube.com/watch?v=rw8Q9ZLDkEs)
 (Stefanie Grewenig - Oct 12, 2015)
 
