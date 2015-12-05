@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[A Hoodie Case Study: How minutes.io does offline](http://hood.ie/blog/minutes-offline-case-study)
+(Alex Feyerke - Dec 1, 2015)
+
 [Reducing Single Point of Failure using Service Workers](http://calendar.perfplanet.com/2015/reducing-single-point-of-failure-using-service-workers/)
 (Dean Hume - Dec 1, 2015)
 
