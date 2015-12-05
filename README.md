@@ -309,6 +309,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [OnConnectionLost: The life of an offline web application](https://www.youtube.com/watch?v=rw8Q9ZLDkEs)
 (Stefanie Grewenig - Oct 12, 2015)
 
+[Offline First and Service Workers](https://www.youtube.com/watch?v=TGwjgmAqNRo)
+(Maximilian Stoiber - Oct 5, 2015)
+
 [Offline First Podcast](https://www.youtube.com/watch?v=tilH8jgLrXQ)
 (The Web Platform Podcast - Sep 8, 2015)
 
