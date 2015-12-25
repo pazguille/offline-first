@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Beyond Offline](https://hacks.mozilla.org/2015/12/beyond-offline/)
+(Salvador de la Puente González - Dec 21, 2015)
+
 [Getting started with the Service Worker Toolbox ](http://deanhume.com/Home/BlogPost/getting-started-with-the-service-worker-toolbox/10134)
 (Dean Hume - Dec 17, 2015)
 
