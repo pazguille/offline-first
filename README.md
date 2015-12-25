@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[ServiceWorker Cookbook](https://serviceworke.rs/)
+(by Mozilla)
+
 [A Hoodie Case Study: How minutes.io does offline](http://hood.ie/blog/minutes-offline-case-study)
 (Alex Feyerke - Dec 1, 2015)
 
