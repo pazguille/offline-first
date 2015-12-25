@@ -67,6 +67,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/@addyosmani/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)
 (Addy Osmani - Nov 17, 2015)
 
+[An Offline Experience with Service Workers](https://brandonrozek.com/2015/11/service-workers/)
+(Brandon Rozek - Nov 14, 2015)
+
 [Building Flipkart Lite: A Progressive Web App](https://medium.com/@AdityaPunjani/building-flipkart-lite-a-progressive-web-app-2c211e641883)
 (Aditya Punjani - Nov 11, 2015)
 
