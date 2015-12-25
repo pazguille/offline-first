@@ -413,6 +413,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Building an Offline Page for theguardian.com](https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com)
 (Oliver Joseph Ash - Nov 27, 2015)
 
+[At your service! - More than appcache uses for Service Workers](http://delapuente.github.io/presentations/at-your-service/index.html)
+(Salvador de la Puente González - Oct 21, 2015)
+
 [Offline First (Web) Apps](https://speakerdeck.com/espylaub/offline-first-web-apps-beuth-hochschule-berlin)
 (Alex Feyerke - Oct 20, 2015)
 
