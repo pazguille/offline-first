@@ -16,7 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Videos](#videos)
   - [Slides](#slides)
 - [Tools](#tools)
-- [Books](#books)
+- [Books](#books)t
 - [Showcase](#showcase)
 - [Who to Follow](#who-to-follow)
 - [Contributing](#contributing)
@@ -507,6 +507,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 (Caolan McMahon - Mar, 2014)
 
 ## Tools
+
+[react-boilerplate](https://github.com/mxstbr/react-boilerplate): Quick setup for performance orientated, offline-first React.js applications.
 
 [Haywire](https://github.com/omnia-salud/haywire): A minimal javascript library for network issues detection.
 
