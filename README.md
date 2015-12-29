@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync)
+(Jake Archibald - 2015)
+
 [Beyond Offline](https://hacks.mozilla.org/2015/12/beyond-offline/)
 (Salvador de la Puente González - Dec 21, 2015)
 
