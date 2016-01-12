@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Instant Web Application](https://glebbahmutov.com/blog/instant-web-application/)
+(Gleb Bahmutov - Dec 24, 2015)
+
 [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync)
 (Jake Archibald - 2015)
 
