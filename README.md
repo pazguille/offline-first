@@ -514,6 +514,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools
 
+[bottle-service](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
+
 [react-boilerplate](https://github.com/mxstbr/react-boilerplate): Quick setup for performance orientated, offline-first React.js applications.
 
 [Haywire](https://github.com/omnia-salud/haywire): A minimal javascript library for network issues detection.
