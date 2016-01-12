@@ -425,6 +425,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Slides
 
+[Insanely fast rendering w/ Service Workers and Early Flushing](https://speakerdeck.com/mstuart/service-workers-and-early-flushing)
+(Mark Stuart - Dec 14, 2015)
+
 [Building an Offline Page for theguardian.com](https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com)
 (Oliver Joseph Ash - Nov 27, 2015)
 
