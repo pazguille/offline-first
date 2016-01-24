@@ -330,6 +330,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Worker as a Service](https://www.youtube.com/watch?v=5LAMbIlwilc)
+(Ola Gasidlo - Nov 19, 2015)
+
 [There is a client-side proxy (ServiceWorker) in your browser!](https://www.youtube.com/watch?v=etACK2qbHfc)
 (Ilya Grigorik - Nov 16, 2015)
 
