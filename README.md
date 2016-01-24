@@ -43,6 +43,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline Web Applications: Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899)
 (Michael Wales - Jan 20, 2016)
 
+[Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/)
+(Tal Ater - Jan 19, 2016)
+
 [Instant Web Application](https://glebbahmutov.com/blog/instant-web-application/)
 (Gleb Bahmutov - Dec 24, 2015)
 
