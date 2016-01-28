@@ -571,6 +571,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [Offline States](http://offlinestat.es/): What show applications when we have not internet connection.
 
 ## Books
+[Client-Side Data Storage](http://shop.oreilly.com/product/0636920043676.do)
+(by Raymond Camden)
+
 [Offline First: The book (draft)](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf)
 (by John Allsopp)
 
