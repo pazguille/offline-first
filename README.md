@@ -61,6 +61,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [ServiceWorker Cookbook](https://serviceworke.rs/)
 (by Mozilla)
 
+[Offline Web Applications with CouchDB, PouchDB and Ember CLI](https://teamgaslight.com/blog/offline-web-applications-with-couchdb-pouchdb-and-ember-cli)
+(Chris Moore - Dec 10, 2015)
+
 [A Hoodie Case Study: How minutes.io does offline](http://hood.ie/blog/minutes-offline-case-study)
 (Alex Feyerke - Dec 1, 2015)
 
