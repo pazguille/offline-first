@@ -591,6 +591,8 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [pokedex.org](https://www.pokedex.org/): An index of Pokémon, built as a client-side JavaScript webapp. Powered by ServiceWorker, PouchDB, virtual-dom, and web workers.
 
+[Soundslice](https://www.soundslice.com/): Learn and teach music better with interactive notation with [offline mode](https://www.soundslice.com/blog/29/introducing-soundslice-offline-mode/).
+
 ## Who to Follow
 - [Matthew Riley](https://github.com/tofumatt): Works at mozilla, creator of localForage (localstroage, IndexedDb and WebSQL Wrapper)
 - [Jake Archibald](https://github.com/jakearchibald): Self described service worker fanatic, works at google helping make offline web apps a thing.
