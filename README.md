@@ -535,6 +535,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools
 
+[Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
+
 [bottle-service](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
 
 [react-boilerplate](https://github.com/mxstbr/react-boilerplate): Quick setup for performance orientated, offline-first React.js applications.
