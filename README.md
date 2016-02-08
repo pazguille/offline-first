@@ -333,6 +333,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Offline-First Apps with PouchDB](https://www.youtube.com/watch?v=7L7esHWAjSU)
+(Bradley Holt - Dec 11, 2015)
+
 [Worker as a Service](https://www.youtube.com/watch?v=5LAMbIlwilc)
 (Ola Gasidlo - Nov 19, 2015)
 
