@@ -46,6 +46,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Making A Service Worker: A Case Study](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 (Lyza Danger Gardner - Feb 1, 2016)
 
+[Create a really, really simple offline page using Service Workers](http://deanhume.com/home/blogpost/create-a-really--really-simple-offline-page-using-service-workers/10135)
+(Dean Hume - Jan 25, 2016)
+
 [Offline Web Applications: Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899)
 (Michael Wales - Jan 20, 2016)
 
