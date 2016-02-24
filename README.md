@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Service Worker notes](https://adactio.com/journal/10186)
+(Jeremy Keith - Feb 4, 2016)
+
 [Offline Web Applications: Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899)
 (Michael Wales - Jan 20, 2016)
 
