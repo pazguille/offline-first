@@ -16,7 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Videos](#videos)
   - [Slides](#slides)
 - [Tools](#tools)
-- [Books](#books)t
+- [Books](#books)
 - [Showcase](#showcase)
 - [Who to Follow](#who-to-follow)
 - [Contributing](#contributing)
