@@ -43,6 +43,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Progressive Web Apps with Service Workers](http://blog.booking.com/progressive-web-apps-with-service-workers.html)
 (Jesse Yang - Apr 21, 2016)
 
+[How To Use PouchDB + SQLite For Local Storage In Ionic 2] (http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
+(Ashteya Biharisingh - Apr 18, 2016)
+
 [Offline-First, Document Sharing, Templates: Monod is Back (not in Black)] (https://tailordev.fr/blog/2016/04/15/le-lab-2-offline-first-document-sharing-templates-monod-is-back/)
 (Apr 15, 2016)
 
