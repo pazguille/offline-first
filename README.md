@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Offline-First, Document Sharing, Templates: Monod is Back (not in Black)] (https://tailordev.fr/blog/2016/04/15/le-lab-2-offline-first-document-sharing-templates-monod-is-back/)
+(Apr 15, 2016)
+
 [Service Worker notes](https://adactio.com/journal/10186)
 (Jeremy Keith - Feb 4, 2016)
 
