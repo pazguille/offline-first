@@ -440,6 +440,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Slides
 
+[Go offline with Service Workers](https://docs.google.com/presentation/d/1crh5m2aDdZPAL07Zo1FtuAliwwghW6FMOEtXviA_BZo/edit#slide=id.p)
+(Emanuel Kluge - 2016)
+
 [Building an Offline Page for theguardian.com](https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com-london-web-perf-march-2016)
 (Oliver Joseph Ash - Mar, 2016)
 
