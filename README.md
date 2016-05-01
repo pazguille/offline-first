@@ -55,6 +55,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Issue 4: Offline badging, DevTools, Testing, Travis, Web Storage, Service Worker Scopes, Data-driven Development, Compute Engine](https://medium.com/totally-tooling-tears/issue-4-offline-badging-testing-travis-devtools-issues-web-storage-data-driven-development-8dd1cfbc410a#.mgur8g8n3)
 (Addy Osmani - Apr 15, 2016)
 
+[The New Builders Ep. 1: Craft Beer and Progressive Web Apps](https://developer.ibm.com/tv/untappd-web-apps/)
+(Douglas Flora - Apr 14, 2016)
+
 [Service Worker notes](https://adactio.com/journal/10186)
 (Jeremy Keith - Feb 4, 2016)
 
