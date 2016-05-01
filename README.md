@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Service Workers replacing AppCache: a sledgehammer to crack a nut](https://medium.com/@firt/service-workers-replacing-appcache-a-sledgehammer-to-crack-a-nut-5db6f473cc9b#.sdp7iqxc3)
+(Maximiliano Firtman - Apr 11, 2016)
+
 [Progressive Web Apps: Eating your Cake](https://medium.com/@torgo/progressive-web-apps-eating-your-cake-c0a79797220f#.jp6qup8xg)
 (Daniel Appelquist - Apr 27, 2016)
 
