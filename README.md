@@ -440,6 +440,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Slides
 
+[Building an Offline Page for theguardian.com](https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com-london-web-perf-march-2016)
+(Oliver Joseph Ash - Mar, 2016)
+
 [Insanely fast rendering w/ Service Workers and Early Flushing](https://speakerdeck.com/mstuart/service-workers-and-early-flushing)
 (Mark Stuart - Dec 14, 2015)
 
