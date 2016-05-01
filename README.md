@@ -348,6 +348,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Totally Tooling Tips: Offline Support](https://www.youtube.com/watch?v=OBfLvqA_E4A)
+(Addy Osmani & Matt Gaunt - Apr 27, 2016)
+
 [Using Service Workers in Ember](http://confreaks.tv/videos/emberconf2016-using-service-workers-in-ember)
 (John Kleinschmidt - Mar 29, 2016)
 
