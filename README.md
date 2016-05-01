@@ -330,6 +330,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Using Service Workers in Ember](http://confreaks.tv/videos/emberconf2016-using-service-workers-in-ember)
+(John Kleinschmidt - Mar 29, 2016)
+
 [Offline-First Apps with PouchDB](https://www.youtube.com/watch?v=7L7esHWAjSU)
 (Bradley Holt - Dec 11, 2015)
 
