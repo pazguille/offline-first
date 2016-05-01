@@ -91,13 +91,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Cache-limiting in Service Workers](https://adactio.com/journal/9844)
 (Jeremy Keith - Nov 19, 2015)
 
-[Offline Recipes for Service Workers](https://hacks.mozilla.org/2015/11/offline-service-workers)
+[Offline Recipes for Service Workers](https://hacks.mozilla.org/2015/11/offline-service-workers/)
 (David Walsh - Nov 19, 2015)
 
-[Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/@addyosmani/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)
+[Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)
 (Addy Osmani - Nov 17, 2015)
 
-[An Offline Experience with Service Workers](https://brandonrozek.com/2015/11/service-workers/)
+[An Offline Experience with Service Workers](http://brandonrozek.tumblr.com/post/135657690564/service-workers)
 (Brandon Rozek - Nov 14, 2015)
 
 [Building Flipkart Lite: A Progressive Web App](https://medium.com/@AdityaPunjani/building-flipkart-lite-a-progressive-web-app-2c211e641883)
@@ -130,7 +130,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 (MDN - Oct 18, 2015)
 
-[Don’t Wait for ServiceWorker: Adding Offline Support with One-Line](http://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline)
+[Don’t Wait for ServiceWorker: Adding Offline Support with One-Line](https://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline)
 (Kenneth Ormandy - Oct 14, 2015)
 
 [Service Workers in Production](https://developers.google.com/web/showcase/case-study/service-workers-iowa)
@@ -138,9 +138,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [How Do We Get It Done, Now?](http://alistapart.com/column/how-do-we-get-it-done-now)
 (Lyza Danger Gardner - Sep 30, 2015)
-
-[Why App Developers Should Think Offline-First](http://mobileenterprise.edgl.com/tech-spotlight/Why-App-Developers-Should-Think-Offline-First101952)
-(Chuck Ganapathi - Aug 30, 2015)
 
 [Let's make Offline Web Applications secure!](http://sakurity.com/blog/2015/07/28/appcache.html)
 (Egor Homakov - Jul 28, 2015)
@@ -154,7 +151,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Why offline-first matters, and what developers should know about it](https://logbook.hanno.co/offline-first-matters-developers-know/)
 (Marcel Kalveram - Jun 2, 2015)
 
-[Getting Appcache’s Fallback to work, crossbrowser](http://www.iandevlin.com/blog/2015/06/html5/getting-appcaches-fallback-to-work-crossbrowser)
+[Getting Appcache’s Fallback to work, crossbrowser](https://www.iandevlin.com/blog/2015/06/html5/getting-appcaches-fallback-to-work-crossbrowser)
 (Ian Devlin - Jun 1, 2015)
 
 [Mobile Apps Offline Support](http://www.infoq.com/articles/mobile-apps-offline-support)
@@ -166,7 +163,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline Data Synchronization in Ionic](http://frontmag.no/artikler/utvikling/offline-data-synchronization-ionic)
 (Marco Fernandes - Apr 29, 2015)
 
-[Offline Data in the Browser](http://lattapartners.com/offline-data-in-the-browser/)
+[Offline Data in the Browser](http://blog.levvel.io/blog-post/offline-data-in-the-browser/)
 (Assaf Weinberg - Mar, 2015)
 
 [Offline: When Your Apps Can’t Connect to the Internet](https://medium.com/user-experience-design-1/offline-93c2f8396124)
@@ -178,7 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline data in the browser](http://lattapartners.com/offline-data-in-the-browser/)
 (Assaf Weinberg - Mar, 2015)
 
-[Offline-first, fast, with the sw-precache module](http://updates.html5rocks.com/2015/02/offline-first-with-sw-precache)
+[Offline-first, fast, with the sw-precache module](https://developers.google.com/web/updates/2015/02/offline-first-with-sw-precache)
 (Jeff Posnick - Feb 23, 2015)
 
 [Offline is Not a Feature](http://www.formotus.com/17221/blog-mobility/offline-is-not-a-feature)
@@ -187,7 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The Right and Wrong Strategies When Taking Your App Offline](http://appdevelopermagazine.com/2356/2015/2/9/The-Right-and-Wrong-Strategies-When-Taking-Your-App-Offline/)
 (Martin Heller - Feb 9, 2015)
 
-[Three takeaways for web developers after two weeks of painfully slow internet](https://medium.com/@GaborLenard/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e)
+[Three takeaways for web developers after two weeks of painfully slow internet](https://medium.com/life-tips/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e)
 (Gabor Lenard - Jan 25, 2015)
 
 [Offline first: as simple as unplug & play?](http://blog.ae.be/offline-first-simple-unplug-play/)
@@ -199,13 +196,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [ServiceWorker is available in Chrome 40 beta](https://plus.google.com/+IlyaGrigorik/posts/WPZsWr4QGqR)
 (Ilya Grigorik - Dec 11, 2014)
 
-[PSA: Service Workers are Coming](http://infrequently.org/2014/12/psa-service-workers-are-coming)
+[PSA: Service Workers are Coming](http://infrequently.org/2014/12/psa-service-workers-are-coming/)
 (Alex Russell - Dec 11, 2014)
 
-[The offline cookbook](http://jakearchibald.com/2014/offline-cookbook/)
+[The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 (Jake Archibald - Dec 9, 2014)
 
-[The next UX challenge on the web: gaining offline trust](http://christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
+[The next UX challenge on the web: gaining offline trust](https://www.christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
 (Christian Heilmann -  Dec 8, 2014)
 
 [Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
@@ -217,28 +214,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [offline decentralized single sign-on in the browser](http://substack.net/offline_decentralized_single_sign_on_in_the_browser)
 (James 'substack' Halliday - Nov 27, 2014)
 
-[Offline Web Apps with Meteor](http://blog.groupbuddies.com/posts/45-offline-web-apps-with-meteor)
+[Offline Web Apps with Meteor](https://subvisual.co/blog/posts/45-offline-web-apps-with-meteor)
 (Gabriel Poça, Nov 26, 2014)
 
 [How to build web applications that can work offline with PouchDB?](http://www.theodo.fr/blog/2014/11/how-to-build-web-applications-work-offline-pouchdb/)
 (Yann Jacquot - Nov 25, 2014)
 
-[Making Your App Work Offline: Tips and Cautionary Tales](http://quickleft.com/blog/making-your-app-work-offline-tips-and-cautionary-tales)
+[Making Your App Work Offline: Tips and Cautionary Tales](https://quickleft.com/blog/making-your-app-work-offline-tips-and-cautionary-tales)
 (David Aragon  - Nov 11, 2014)
 
 [How Google and Mozilla are aiming to make web apps shine offline](http://www.techrepublic.com/article/how-google-and-mozilla-are-aiming-to-make-web-apps-work-as-well-offline-as-on/)
 (Nick Heath - Oct 30, 2014)
 
-[Offline-first is people-first](http://nolanlawson.com/2014/10/03/offline-first-is-people-first)
+[Offline-first is people-first](https://nolanlawson.com/2014/10/03/offline-first-is-people-first)
 (Nolan Lawson - Oct 3, 2014)
 
-[Introducing Hoodie: Full Stack App Development for Front-End Developers](http://www.toptal.com/front-end/introducing-hoodie-full-stack-app-development-for-front-end-developers)
+[Introducing Hoodie: Full Stack App Development for Front-End Developers](https://www.toptal.com/front-end/introducing-hoodie-full-stack-app-development-for-front-end-developers)
 (Alvaro Oliveira - Sep 24, 2014)
 
-[Offline-first: a new paradigm in web development](http://goo.gl/c7T3NZ)
+[Offline-first: a new paradigm in web development](ttps://translate.google.com/translate?hl=en&sl=nl&tl=en&u=http%3A%2F%2Fwww.e-sites.nl%2Fblog%2F400-offline-first-een-nieuw-paradigma-in-web-development.html)
 (Boye Oomens - Sep 16, 2014)
 
-[Building A Simple Cross-Browser Offline To-Do List With IndexedDB And WebSQL](http://www.smashingmagazine.com/2014/09/02/building-simple-cross-browser-offline-todo-list-indexeddb-websql)
+[Building A Simple Cross-Browser Offline To-Do List With IndexedDB And WebSQL](https://www.smashingmagazine.com/2014/09/02/building-simple-cross-browser-offline-todo-list-indexeddb-websql)
 (Matt Andrews - Sep 2, 2014)
 
 [Introducing MakeDrive](http://blog.humphd.org/introducing-makedrive/)
@@ -250,7 +247,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Taking your Worklight apps offline](https://medium.com/@papasimons/taking-your-worklight-apps-offline-e8c2c2d8533a)
 (Gideon Simons - Aug 19, 2014)
 
-[Working offline](https://developer.mozilla.org/en-US/Apps/Build/Offline)
+[Working offline](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Offline)
 (Aug 12, 2014)
 
 [Offline First - the new paradigm in web development done Neptune style](http://scn.sap.com/community/developer-center/front-end/blog/2014/08/05/offline-first--the-new-paradigm-in-web-development-done-neptune-style) (Njål Stabell - Augt 5, 2014)
@@ -267,25 +264,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Service Workers: Offline Now(ish)!](https://www.youtube.com/watch?v=BKD7ZLRi9HI)
 (Alex Russell - May 21, 2014)
 
-[Offline Web Applications](https://www.youtube.com/watch?v=AbixY3W8ayo)
-(Jan Jongboom - May 23, 2014)
-
-[Service Worker - first draft published](http://jakearchibald.com/2014/service-worker-first-draft/)
+[Service Worker - first draft published](https://jakearchibald.com/2014/service-worker-first-draft/)
 (Jake Archibald - May 8, 2014)
 
-[The BMEAN Stack and Offline-First Design](http://dailyjs.com/2014/04/11/bmean/)
+[The BMEAN Stack and Offline-First Design](http://dailyjs.com/2014/04/10/bmean/)
 (Daishi Kato - Apr 11, 2014)
 
-[Do HTML5 apps have to be online all the time?](http://christianheilmann.com/2014/03/23/do-html5-apps-have-to-be-online-all-the-time/)
+[Do HTML5 apps have to be online all the time?](https://christianheilmann.com/2014/03/23/do-html5-apps-have-to-be-online-all-the-time/)
 (Christian Heilmann - Mar 23rd, 2014)
 
 [Building an Offline First App with PouchDB](http://www.sitepoint.com/building-offline-first-app-pouchdb/)
 (Tiffany Brown - Mar 10, 2014)
 
-[Will It Work If I'm Offline?](http://jcbsnd.com/will-it-work-if-im-offline/)
-(Jacob Søndergaard - Mar 3, 2014)
-
-[Introduction to Offline Web Apps on the Kindle Fire](https://developer.amazon.com/post/Tx21KG2QC7O71S9/Introduction-to-Offline-Web-Apps-on-the-Kindle-Fire.html)
+[Introduction to Offline Web Apps on the Kindle Fire](https://developer.amazon.com/appsandservices/community/post/Tx21KG2QC7O71S9/Introduction-to-Offline-Web-Apps-on-the-Kindle-Fire.html)
 (Russell Beattie - Jan 30, 2014)
 
 [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first)
@@ -297,10 +288,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline First](http://www.kryogenix.org/days/2013/11/06/offline-first/)
 (Stuart Langridge - Nov 6, 2013)
 
-[Making the web work offline first](http://www.marcelkalveram.com/2013/11/developing-for-offline-first/)
+[Making the web work offline first](http://marcelkalveram.com/2013/11/developing-for-offline-first/)
 (Marcel Kalveram - Nov 20, 2013)
 
-[Say Hello to Offline First](http://blog.hood.ie/2013/11/say-hello-to-offline-first/)
+[Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html)
 (Dan Lash - Nov 5, 2013)
 
 [Offline First: Your Next Progressive Enhancement Technique?](http://www.sitepoint.com/offline-first-next-progressive-enhancement-technique/)
@@ -312,7 +303,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Using HTML5 AppCache with Single Page Applications](http://techblog.dorogin.com/2013/03/using-html5-appcache-with-single-page-apps.html)
 (Sergei Dorogin - Mar 29, 2013)
 
-[Offline First – A better HTML5 User Experience](http://blog.joelambert.co.uk/2012/11/26/offline-first-a-better-html5-user-experience/)
+[Offline First – A better HTML5 User Experience](http://www.joelambert.co.uk/article/offline-first-a-better-html5-user-experience/)
 (Joe Lambert - Nov 26, 2012)
 
 [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
@@ -461,9 +452,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Developing for Offline First Mobile Experiences](http://www.slideshare.net/NicRaboy/developing-for-offline-first-mobile-experiences)
 (Nic Raboy - Dec 2, 2015)
 
-[Building an Offline Page for theguardian.com](https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com)
-(Oliver Joseph Ash - Nov 27, 2015)
-
 [At your service! - More than appcache uses for Service Workers](http://delapuente.github.io/presentations/at-your-service/index.html)
 (Salvador de la Puente González - Oct 21, 2015)
 
@@ -491,13 +479,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline first, the painless way](http://de.slideshare.net/MarcelKalveram/offline-first-the-painless-way)
 (Marcel Kalveram - May 17, 2015)
 
-[noBackend e Offline First: focusing on creating experiences (pt-br)](https://speakerdeck.com/joselitojunior/nobackend-e-offline-first-foque-em-criar-experiencias-number-frontinfortaleza)
+[noBackend e Offline First: focusing on creating experiences (pt-br)](https://speakerdeck.com/joselitojunior1/nobackend-e-offline-first-foque-em-criar-experiencias-number-frontinfortaleza)
 (Joselito Júnior - May 16, 2015)
 
 [HOLY SYNC: a sane approach to offline-first cross-platform data syncing](https://speakerdeck.com/takhion/holy-sync-a-sane-approach-to-offline-first-cross-platform-data-syncing)
 (Eugenio Marletti - Apr 10, 2015)
 
-[Service Worker and the Offline Web](http://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk)
+[Service Worker and the Offline Web](https://slidr.io/lewiscowper/service-worker-and-the-offline-web-lightning-talk)
 (Lewis Cowper - Mar 7, 2015)
 
 [Service Workers on vacay...](https://docs.google.com/presentation/d/1LUuMYDi1ssmslQKnnX3cwrdLVy2YCqyww3PBtqEP0q8/edit)
@@ -508,9 +496,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [ServiceWorkers and High Performance Offline Apps](https://huffduffer.com/AlanDalton/202718)
 (AlanDalton - Jan 13, 2015)
-
-[Offline First](http://www.webdirections.org/speakeasy/presentations/SmashingOffline/offline.html)
-(John Allsopp - Dec 12, 2014)
 
 [Leveraging hood.ie to build for the offline state](http://de.slideshare.net/MarcelKalveram/codemotion-talk-41932602)
 (Marcel Kalveram - Nov 24, 2014)
@@ -545,7 +530,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline First – Made Simple!](https://speakerdeck.com/gr2m/offline-first-made-simple)
 (Gregor Martynus - Apr 24, 2014)
 
-[Offline First Re-Imagining Web Development For The Real World](http://qconlondon.com/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf)
+[Offline First Re-Imagining Web Development For The Real World](https://qconlondon.com/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf)
 (Caolan McMahon - Mar, 2014)
 
 ## Tools
@@ -564,7 +549,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [simple-serviceworker-tutorial](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
 
-[Hyperboot](http://hyperboot.org/): Offline webapp bootloader.
+[Hyperboot](https://github.com/substack/hyperboot): Offline webapp bootloader.
 
 [MakeDrive](https://github.com/mozilla/makedrive): A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
 See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDrive) for background info.
@@ -573,15 +558,15 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API): IndexedDB is an API for client-side storage of significant amounts of structured data and for high performance searches on this data using indexes.
 
-[ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
+[ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
 [localForage](https://github.com/mozilla/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
-[remoteStorage](http://remotestorage.io): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
+[remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 
-[pouchdb](http://pouchdb.com): PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
+[pouchdb](https://pouchdb.com/): PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
 
-[Offline.js](http://github.hubspot.com/offline/docs/welcome): An awesome JavaScript library to improve the experience of your app when your users lose connection.
+[Offline.js](http://github.hubspot.com/offline/docs/welcome/): An awesome JavaScript library to improve the experience of your app when your users lose connection.
 
 [Hoodie](http://hood.ie/): Hoodie is an Offline First and noBackend architecture for frontend-only web apps on the web and on iOS.
 
@@ -598,7 +583,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 (by Peter Lubbers, Brian Albers and Frank Salim)
 
 ## Showcase
-[Minutes.io](http://minutes.io): Awesome offline first minute taking app built with [Hoodie](http://hood.ie/).
+[Minutes.io](https://minutes.io): Awesome offline first minute taking app built with [Hoodie](http://hood.ie/).
 
 [Swarm+React TodoMVC](http://ppyr.us/): Awesome offline implementation of [TodoMVC](http://todomvc.com) with real-time sync.
 
@@ -622,8 +607,8 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 ## Maintained by
 - Guille Paz (Front-end developer | Web standards lover)
 - E-mail: [guille87paz@gmail.com](mailto:guille87paz@gmail.com)
-- Twitter: [@pazguille](http://twitter.com/pazguille)
-- Web: [http://pazguille.me](http://pazguille.me)
+- Twitter: [@pazguille](https://twitter.com/pazguille)
+- Web: [http://pazguille.me](https://pazguille.me)
 
 ## License
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
