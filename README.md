@@ -172,9 +172,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline is not just another mobile feature](http://betanews.com/2015/03/04/offline-is-not-just-another-mobile-feature/)
 (Chuck Ganapathi - Mar 4, 2015)
 
-[Offline data in the browser](http://lattapartners.com/offline-data-in-the-browser/)
-(Assaf Weinberg - Mar, 2015)
-
 [Offline-first, fast, with the sw-precache module](https://developers.google.com/web/updates/2015/02/offline-first-with-sw-precache)
 (Jeff Posnick - Feb 23, 2015)
 
@@ -220,13 +217,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [How to build web applications that can work offline with PouchDB?](http://www.theodo.fr/blog/2014/11/how-to-build-web-applications-work-offline-pouchdb/)
 (Yann Jacquot - Nov 25, 2014)
 
-[Making Your App Work Offline: Tips and Cautionary Tales](https://quickleft.com/blog/making-your-app-work-offline-tips-and-cautionary-tales)
+[Making Your App Work Offline: Tips and Cautionary Tales](https://quickleft.com/blog/making-your-app-work-offline-tips-and-cautionary-tales/)
 (David Aragon  - Nov 11, 2014)
 
 [How Google and Mozilla are aiming to make web apps shine offline](http://www.techrepublic.com/article/how-google-and-mozilla-are-aiming-to-make-web-apps-work-as-well-offline-as-on/)
 (Nick Heath - Oct 30, 2014)
 
-[Offline-first is people-first](https://nolanlawson.com/2014/10/03/offline-first-is-people-first)
+[Offline-first is people-first](https://nolanlawson.com/2014/10/03/offline-first-is-people-first/)
 (Nolan Lawson - Oct 3, 2014)
 
 [Introducing Hoodie: Full Stack App Development for Front-End Developers](https://www.toptal.com/front-end/introducing-hoodie-full-stack-app-development-for-front-end-developers)
@@ -235,7 +232,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline-first: a new paradigm in web development](ttps://translate.google.com/translate?hl=en&sl=nl&tl=en&u=http%3A%2F%2Fwww.e-sites.nl%2Fblog%2F400-offline-first-een-nieuw-paradigma-in-web-development.html)
 (Boye Oomens - Sep 16, 2014)
 
-[Building A Simple Cross-Browser Offline To-Do List With IndexedDB And WebSQL](https://www.smashingmagazine.com/2014/09/02/building-simple-cross-browser-offline-todo-list-indexeddb-websql)
+[Building A Simple Cross-Browser Offline To-Do List With IndexedDB And WebSQL](https://www.smashingmagazine.com/2014/09/building-simple-cross-browser-offline-todo-list-indexeddb-websql/)
 (Matt Andrews - Sep 2, 2014)
 
 [Introducing MakeDrive](http://blog.humphd.org/introducing-makedrive/)
@@ -247,7 +244,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Taking your Worklight apps offline](https://medium.com/@papasimons/taking-your-worklight-apps-offline-e8c2c2d8533a)
 (Gideon Simons - Aug 19, 2014)
 
-[Working offline](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Offline)
+[Working offline](https://developer.mozilla.org/en-US/Apps/Fundamentals/Offline)
 (Aug 12, 2014)
 
 [Offline First - the new paradigm in web development done Neptune style](http://scn.sap.com/community/developer-center/front-end/blog/2014/08/05/offline-first--the-new-paradigm-in-web-development-done-neptune-style) (Njål Stabell - Augt 5, 2014)
@@ -270,7 +267,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The BMEAN Stack and Offline-First Design](http://dailyjs.com/2014/04/10/bmean/)
 (Daishi Kato - Apr 11, 2014)
 
-[Do HTML5 apps have to be online all the time?](https://christianheilmann.com/2014/03/23/do-html5-apps-have-to-be-online-all-the-time/)
+[Do HTML5 apps have to be online all the time?](https://www.christianheilmann.com/2014/03/23/do-html5-apps-have-to-be-online-all-the-time/)
 (Christian Heilmann - Mar 23rd, 2014)
 
 [Building an Offline First App with PouchDB](http://www.sitepoint.com/building-offline-first-app-pouchdb/)
@@ -530,7 +527,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline First – Made Simple!](https://speakerdeck.com/gr2m/offline-first-made-simple)
 (Gregor Martynus - Apr 24, 2014)
 
-[Offline First Re-Imagining Web Development For The Real World](https://qconlondon.com/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf)
+[Offline First Re-Imagining Web Development For The Real World](https://qconlondon.com/london-2014/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf)
 (Caolan McMahon - Mar, 2014)
 
 ## Tools
@@ -608,7 +605,7 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 - Guille Paz (Front-end developer | Web standards lover)
 - E-mail: [guille87paz@gmail.com](mailto:guille87paz@gmail.com)
 - Twitter: [@pazguille](https://twitter.com/pazguille)
-- Web: [http://pazguille.me](https://pazguille.me)
+- Web: [https://pazguille.me/](https://pazguille.me/)
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
