@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Progressive Web Apps: Eating your Cake](https://medium.com/@torgo/progressive-web-apps-eating-your-cake-c0a79797220f#.jp6qup8xg)
+(Daniel Appelquist - Apr 27, 2016)
+
 [Progressive Web Apps with Service Workers](http://blog.booking.com/progressive-web-apps-with-service-workers.html)
 (Jesse Yang - Apr 21, 2016)
 
