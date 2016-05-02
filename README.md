@@ -61,6 +61,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The New Builders Ep. 1: Craft Beer and Progressive Web Apps](https://developer.ibm.com/tv/untappd-web-apps/)
 (Douglas Flora - Apr 14, 2016)
 
+[Progressive Web Apps — Offline And Add To Home Screen](https://medium.com/@greenido/progressive-web-apps-offline-and-add-to-home-screen-2187a2487a5c#.7m52kq892)
+(Ido Green - Mar 28, 2016)
+
 [The web on my phone](https://adactio.com/journal/10410)
 (Jeremy Keith - Mar 23, 2016)
 
