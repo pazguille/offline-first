@@ -61,6 +61,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The New Builders Ep. 1: Craft Beer and Progressive Web Apps](https://developer.ibm.com/tv/untappd-web-apps/)
 (Douglas Flora - Apr 14, 2016)
 
+[Why I switched to Android after 7 years of iOS](https://joreteg.com/blog/why-i-switched-to-android)
+(Henrik Joreteg - Mar 22, 2016)
+
 [Service Worker notes](https://adactio.com/journal/10186)
 (Jeremy Keith - Feb 4, 2016)
 
