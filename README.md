@@ -169,6 +169,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [How Do We Get It Done, Now?](http://alistapart.com/column/how-do-we-get-it-done-now)
 (Lyza Danger Gardner - Sep 30, 2015)
 
+[The Role of Workers and Offline Cache](https://unoyunodiez.com/2015/09/07/modern-mobile-web-development-breaking-the-rules-beating-delays-improving-responsiveness-and-performance-ii/)
+(Sep 7, 2015)
+
 [Let's make Offline Web Applications secure!](http://sakurity.com/blog/2015/07/28/appcache.html)
 (Egor Homakov - Jul 28, 2015)
 
