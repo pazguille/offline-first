@@ -67,6 +67,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The web on my phone](https://adactio.com/journal/10410)
 (Jeremy Keith - Mar 23, 2016)
 
+[The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker)
+(Remy Sharp - Mar 22, 2016)
+
 [Why I switched to Android after 7 years of iOS](https://joreteg.com/blog/why-i-switched-to-android)
 (Henrik Joreteg - Mar 22, 2016)
 
