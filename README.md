@@ -40,9 +40,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
-[Service Workers replacing AppCache: a sledgehammer to crack a nut](https://medium.com/@firt/service-workers-replacing-appcache-a-sledgehammer-to-crack-a-nut-5db6f473cc9b#.sdp7iqxc3)
-(Maximiliano Firtman - Apr 11, 2016)
-
 [Progressive Web Apps: Eating your Cake](https://medium.com/@torgo/progressive-web-apps-eating-your-cake-c0a79797220f#.jp6qup8xg)
 (Daniel Appelquist - Apr 27, 2016)
 
@@ -61,6 +58,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The New Builders Ep. 1: Craft Beer and Progressive Web Apps](https://developer.ibm.com/tv/untappd-web-apps/)
 (Douglas Flora - Apr 14, 2016)
 
+[Service Workers replacing AppCache: a sledgehammer to crack a nut](https://medium.com/@firt/service-workers-replacing-appcache-a-sledgehammer-to-crack-a-nut-5db6f473cc9b#.sdp7iqxc3)
+(Maximiliano Firtman - Apr 11, 2016)
+
 [Progressive Web Apps — Offline And Add To Home Screen](https://medium.com/@greenido/progressive-web-apps-offline-and-add-to-home-screen-2187a2487a5c#.7m52kq892)
 (Ido Green - Mar 28, 2016)
 
@@ -69,6 +69,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [Why I switched to Android after 7 years of iOS](https://joreteg.com/blog/why-i-switched-to-android)
 (Henrik Joreteg - Mar 22, 2016)
+
+[Service Workers: Save your User's Data using the Save-Data Header](http://www.deanhume.com/Home/BlogPost/service-workers--save-your-users-data-using-the-save-data-header/10139)
+(Dean Hume - Mar 8, 2016)
 
 [Service Worker notes](https://adactio.com/journal/10186)
 (Jeremy Keith - Feb 4, 2016)
