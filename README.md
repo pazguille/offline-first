@@ -622,6 +622,8 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Offline States](http://offlinestat.es/): What show applications when we have not internet connection.
 
+[appCache Nanny](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
+
 ## Books
 [Client-Side Data Storage](http://shop.oreilly.com/product/0636920043676.do)
 (by Raymond Camden)
