@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Service Workers — Gotchas](https://medium.com/@boopathi/service-workers-gotchas-44bec65eab3f#.4q0ncllos)
+(Boopathi Rajaa - May 9, 2016)
+
 [Service Workers and PWAs: It’s About Reliable Performance, Not “Offline”](https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/)
 (Alex Russell- May 4, 2016)
 
