@@ -372,6 +372,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8)
+(Jake Archibald - May 20, 2016)
+
 [Offline Web Applications: Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899)
 
 [Totally Tooling Tips: Offline Support](https://www.youtube.com/watch?v=OBfLvqA_E4A)
