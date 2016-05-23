@@ -211,7 +211,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline Data in the Browser](http://blog.levvel.io/blog-post/offline-data-in-the-browser/)
 (Assaf Weinberg - Mar, 2015)
 
-[Offline: When Your Apps Can’t Connect to the Internet](https://uxdesign.cc/offline-93c2f8396124#.pieih5qe2)
+[Offline: When Your Apps Can’t Connect to the Internet](https://uxdesign.cc/offline-93c2f8396124)
 (Daniel Sauble - Mar 29, 2015)
 
 [Offline is not just another mobile feature](http://betanews.com/2015/03/04/offline-is-not-just-another-mobile-feature/)
