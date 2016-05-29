@@ -43,6 +43,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Service Workers — Gotchas](https://medium.com/@boopathi/service-workers-gotchas-44bec65eab3f#.4q0ncllos)
 (Boopathi Rajaa - May 9, 2016)
 
+[Offline-first QR-code Badge Scanner](https://developer.ibm.com/clouddataservices/2016/05/05/offline-first-qr-code-badge-scanner/)
+(Glynn Bird - May 5, 2016)
+
 [Service Workers and PWAs: It’s About Reliable Performance, Not “Offline”](https://infrequently.org/2016/05/service-workers-and-pwas-its-about-reliable-performance-not-offline/)
 (Alex Russell- May 4, 2016)
 
