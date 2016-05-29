@@ -375,6 +375,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Service workers at scale with Facebook and Flipkart](https://www.youtube.com/watch?v=fGTUIlEM0m8&feature=youtu.be&t=2200)
+(Owen Campbell-Moore, Aditya Punjani and Nate Schloss - May 20, 2016)
+
 [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8)
 (Jake Archibald - May 20, 2016)
 
