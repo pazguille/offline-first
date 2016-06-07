@@ -169,6 +169,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Cache sandboxed HTTP requests with Service Worker](https://medium.com/@roman01la/cache-sandboxed-http-requests-with-service-worker-6bb3801237d1#.3jjklzohz)
 (Roman Liutikov - Oct 26, 2015)
 
+[The offline experience (or, saying goodbye to imperative data fetching)](https://medium.com/@plestik/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7)
+(Dario Gieselaar - Oct 25, 2015)
+
 [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 (Nicolas Bevacqua - Oct 21, 2015)
 
