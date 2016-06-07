@@ -43,6 +43,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline Content with Service Worker](https://chrisruppel.com/blog/service-worker-offline-content/)
 (Chris Ruppel - Jun 6, 2016)
 
+[Taking an online book offline](https://adactio.com/journal/10754)
+(Jeremy Keith - Jun 3, 2016)
+
 [Service Workers — Gotchas](https://medium.com/@boopathi/service-workers-gotchas-44bec65eab3f#.4q0ncllos)
 (Boopathi Rajaa - May 9, 2016)
 
