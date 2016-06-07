@@ -241,7 +241,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Three takeaways for web developers after two weeks of painfully slow internet](https://medium.com/life-tips/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e)
 (Gabor Lenard - Jan 25, 2015)
 
-[Offline first: as simple as unplug & play?](http://blog.ae.be/offline-first-simple-unplug-play/)
+[Offline first: as simple as unplug & play?](http://www.ae.be/blog-en/offline-first-simple-unplug-play/)
 (Thomas Anciaux - Jan 15, 2015)
 
 [A simple ServiceWorker app](http://blog.lamplightdev.com/2015/01/06/A-Simple-ServiceWorker-App/)
@@ -356,9 +356,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [Using HTML5 AppCache with Single Page Applications](http://techblog.dorogin.com/2013/03/using-html5-appcache-with-single-page-apps.html)
 (Sergei Dorogin - Mar 29, 2013)
-
-[Offline First – A better HTML5 User Experience](http://www.joelambert.co.uk/article/offline-first-a-better-html5-user-experience/)
-(Joe Lambert - Nov 26, 2012)
 
 [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
 (Jake Archibald - May 08, 2012)
