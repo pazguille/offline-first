@@ -384,6 +384,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Offline is the new black](https://vimeo.com/171317290)
+(Max Stoiber - Jun 19, 2016)
+
 [Service workers at scale with Facebook and Flipkart](https://www.youtube.com/watch?v=fGTUIlEM0m8&feature=youtu.be&t=2200)
 (Owen Campbell-Moore, Aditya Punjani and Nate Schloss - May 20, 2016)
 
