@@ -655,6 +655,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [appCache Nanny](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
 
 ## Books
+[Offline First Web Development](https://www.packtpub.com/web-development/offline-first-web-development)
+(by Daniel Sauble)
+
 [Client-Side Data Storage](http://shop.oreilly.com/product/0636920043676.do)
 (by Raymond Camden)
 
