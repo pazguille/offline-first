@@ -172,7 +172,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Cache sandboxed HTTP requests with Service Worker](https://medium.com/@roman01la/cache-sandboxed-http-requests-with-service-worker-6bb3801237d1#.3jjklzohz)
 (Roman Liutikov - Oct 26, 2015)
 
-[The offline experience (or, saying goodbye to imperative data fetching)](https://medium.com/@plestik/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7)
+[The offline experience (or, saying goodbye to imperative data fetching)](https://medium.com/@d.gieselaar/the-offline-experience-or-saying-goodbye-to-imperative-data-fetching-9b2fa487eea7)
 (Dario Gieselaar - Oct 25, 2015)
 
 [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
@@ -220,7 +220,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline Data Synchronization in Ionic](http://frontmag.no/artikler/utvikling/offline-data-synchronization-ionic)
 (Marco Fernandes - Apr 29, 2015)
 
-[Offline Data in the Browser](http://blog.levvel.io/blog-post/offline-data-in-the-browser/)
+[Offline Data in the Browser](http://www.levvel.io/blog-post/offline-data-in-the-browser/)
 (Assaf Weinberg - Mar, 2015)
 
 [Offline: When Your Apps Can’t Connect to the Internet](https://uxdesign.cc/offline-93c2f8396124)
@@ -238,7 +238,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The Right and Wrong Strategies When Taking Your App Offline](http://appdevelopermagazine.com/2356/2015/2/9/The-Right-and-Wrong-Strategies-When-Taking-Your-App-Offline/)
 (Martin Heller - Feb 9, 2015)
 
-[Three takeaways for web developers after two weeks of painfully slow internet](https://medium.com/life-tips/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e)
+[Three takeaways for web developers after two weeks of painfully slow internet](https://byrslf.co/three-takeaways-for-web-developers-after-two-weeks-of-painfully-slow-internet-9e7f6d47726e)
 (Gabor Lenard - Jan 25, 2015)
 
 [Offline first: as simple as unplug & play?](http://www.ae.be/blog-en/offline-first-simple-unplug-play/)
@@ -640,7 +640,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
-[localForage](https://github.com/mozilla/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+[localForage](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 [remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 
