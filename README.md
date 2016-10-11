@@ -658,6 +658,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [appCache Nanny](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
 
 ## Books
+[Building Progressive Web Apps](https://pwabook.com)
+(by Tal Ater)
+
 [Client-Side Data Storage](http://shop.oreilly.com/product/0636920043676.do)
 (by Raymond Camden)
 
