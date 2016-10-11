@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Offline Reading List](https://chrisruppel.com/blog/service-worker-offline-content-list/)
+(Chris Ruppel - Oct 5, 2016)
+
 [Offline Content with Service Worker](https://chrisruppel.com/blog/service-worker-offline-content/)
 (Chris Ruppel - Jun 6, 2016)
 
