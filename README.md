@@ -55,6 +55,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Enabling Offline First Experiences on the Web with Service Workers](https://medium.com/offline-camp/enabling-offline-first-experiences-on-the-web-with-service-workers-e4bc8c773dae#.c6ui0i9cs)
 (Dan Zajdband - Sep 12, 2016)
 
+[Songsearch – using ServiceWorker to make a 4 MB CSV easily searchable in a browser](https://www.christianheilmann.com/2016/08/26/songsearch-using-serviceworker-to-make-a-4-mb-csv-easily-searchable-in-a-browser/)
+(Christian Heilmann - Aug 26, 2016)
+
 [Offline Content with Service Worker](https://chrisruppel.com/blog/service-worker-offline-content/)
 (Chris Ruppel - Jun 6, 2016)
 
