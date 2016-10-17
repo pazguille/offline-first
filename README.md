@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-> via http://www.html5rocks.com/en/features/offline
+> via https://www.html5rocks.com/en/features/offline
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -118,9 +118,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker)
 (Remy Sharp - Mar 22, 2016)
 
-[Why I switched to Android after 7 years of iOS](https://joreteg.com/blog/why-i-switched-to-android)
-(Henrik Joreteg - Mar 22, 2016)
-
 [Service Workers: Save your User's Data using the Save-Data Header](http://www.deanhume.com/Home/BlogPost/service-workers--save-your-users-data-using-the-save-data-header/10139)
 (Dean Hume - Mar 8, 2016)
 
@@ -187,7 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Building Flipkart Lite: A Progressive Web App](https://medium.com/@AdityaPunjani/building-flipkart-lite-a-progressive-web-app-2c211e641883)
 (Aditya Punjani - Nov 11, 2015)
 
-[Your first offline web app](https://developers.google.com/web/fundamentals/getting-started/your-first-offline-web-app/)
+[Your first offline web app](https://developers.google.com/web/fundamentals/getting-started/codelabs/offline/)
 (Chrome Developer Team - 2015)
 
 [Making a Simple Site Work Offline with ServiceWorker](https://css-tricks.com/serviceworker-for-offline/)
@@ -250,7 +247,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Making react-europe.org work offline with Service Workers and free SSL from Cloudflare](https://medium.com/@patcito/making-react-europe-org-work-offline-with-service-workers-f54fb0457048)
 (Patrick Aljord - May 14, 2015)
 
-[Offline Data Synchronization in Ionic](http://frontmag.no/artikler/utvikling/offline-data-synchronization-ionic)
+[Offline Data Synchronization in Ionic](https://frontmag.no/artikler/utvikling/offline-data-synchronization-ionic)
 (Marco Fernandes - Apr 29, 2015)
 
 [Offline Data in the Browser](http://www.levvel.io/blog-post/offline-data-in-the-browser/)
@@ -295,7 +292,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
 (Cesar William Alvarenga - Dec 8, 2014)
 
-[Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+[Introduction to Service Worker](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 (Matt Gaunt - Dec 1, 2014)
 
 [offline decentralized single sign-on in the browser](http://substack.net/offline_decentralized_single_sign_on_in_the_browser)
@@ -363,7 +360,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Building an Offline First App with PouchDB](https://www.sitepoint.com/building-offline-first-app-pouchdb/)
 (Tiffany Brown - Mar 10, 2014)
 
-[Introduction to Offline Web Apps on the Kindle Fire](https://developer.amazon.com/appsandservices/community/post/Tx21KG2QC7O71S9/Introduction-to-Offline-Web-Apps-on-the-Kindle-Fire.html)
+[Introduction to Offline Web Apps on the Kindle Fire](https://developer.amazon.com/public/community/post/Tx21KG2QC7O71S9/Introduction-to-Offline-Web-Apps-on-the-Kindle-Fire.html)
 (Russell Beattie - Jan 30, 2014)
 
 [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first)
@@ -393,7 +390,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
 (Jake Archibald - May 08, 2012)
 
-[Appcache Facts](http://appcachefacts.info)
+[Appcache Facts](http://mmariani.github.io/appcachefacts/)
 
 [Chrome Offline Apps](https://developer.chrome.com/apps/offline_apps)
 
@@ -694,7 +691,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [appCache Nanny](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
 
 ## Books
-[Building Progressive Web Apps](https://pwabook.com)
+[Building Progressive Web Apps](http://shop.oreilly.com/product/0636920052067.do)
 (by Tal Ater)
 
 [Client-Side Data Storage](http://shop.oreilly.com/product/0636920043676.do)
@@ -708,8 +705,6 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 ## Showcase
 [Minutes.io](https://minutes.io): Awesome offline first minute taking app built with [Hoodie](http://hood.ie/).
-
-[Swarm+React TodoMVC](http://ppyr.us/): Awesome offline implementation of [TodoMVC](http://todomvc.com) with real-time sync.
 
 [2048](https://gabrielecirulli.github.io/2048/): The original 2048 is a great game to pin to your homescreen. 
 
