@@ -61,6 +61,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 (Offline Storage for Progressive Web Apps)[https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.ryrpvq43r]
 (Addy Osmani - Aug 15, 2016)
 
+[Add offline support to any Web app](https://medium.com/google-developer-experts/add-offline-support-to-any-web-app-c20edc4bea0e#.jeseb4ovf)
+(Wassim Chegham - Jul 23, 2016)
+
 [Offline Content with Service Worker](https://chrisruppel.com/blog/service-worker-offline-content/)
 (Chris Ruppel - Jun 6, 2016)
 
