@@ -64,6 +64,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Add offline support to any Web app](https://medium.com/google-developer-experts/add-offline-support-to-any-web-app-c20edc4bea0e#.jeseb4ovf)
 (Wassim Chegham - Jul 23, 2016)
 
+[ServiceWorker: A Basic Guide to BackgroundSync](https://ponyfoo.com/articles/backgroundsync)
+(Dean Hume - Jul 19, 2016)
+
 [Offline Content with Service Worker](https://chrisruppel.com/blog/service-worker-offline-content/)
 (Chris Ruppel - Jun 6, 2016)
 
