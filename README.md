@@ -67,6 +67,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [ServiceWorker: A Basic Guide to BackgroundSync](https://ponyfoo.com/articles/backgroundsync)
 (Dean Hume - Jul 19, 2016)
 
+[Offline First, the Decentralized Web, and Peer-to-Peer Technologies](https://medium.com/offline-camp/offline-first-the-decentralized-web-and-peer-to-peer-technologies-b05b7fb3bcdd#.6xdfvy6on)
+(Pedro Teixeira - Jul 15, 2016)
+
 [Offline Content with Service Worker](https://chrisruppel.com/blog/service-worker-offline-content/)
 (Chris Ruppel - Jun 6, 2016)
 
