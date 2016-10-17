@@ -550,6 +550,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline, progressive, and multithreaded](https://nolanlawson.github.io/fronteers-2016/#/)
 (Nolan Lawson - Oct 10, 2016)
 
+[Rise of the Web Workers](http://blog.nparashuram.com/2016/09/rise-of-web-workers-nationjs.html)
+(Parashuram N - Sep 16, 2016)
+
 [Building an Offline Page for theguardian.com](https://speakerdeck.com/oliverjash/building-an-offline-page-for-theguardian-dot-com-jsconf-budapest-may-2016)
 (Oliver Joseph Ash - May 14, 2016)
 
