@@ -58,6 +58,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Songsearch – using ServiceWorker to make a 4 MB CSV easily searchable in a browser](https://www.christianheilmann.com/2016/08/26/songsearch-using-serviceworker-to-make-a-4-mb-csv-easily-searchable-in-a-browser/)
 (Christian Heilmann - Aug 26, 2016)
 
+(Offline Storage for Progressive Web Apps)[https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.ryrpvq43r]
+(Addy Osmani - Aug 15, 2016)
+
 [Offline Content with Service Worker](https://chrisruppel.com/blog/service-worker-offline-content/)
 (Chris Ruppel - Jun 6, 2016)
 
