@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list pazguille.me,hood.ie,https://github.com/sindresorhus/awesome,slideshare.net,udacity.com,https://uxdesign.cc/offline-93c2f8396124,auth0,byrslf.co,scn.sap
+  - awesome_bot README.md --white-list pazguille.me,hood.ie,https://github.com/sindresorhus/awesome,slideshare.net,udacity.com,https://uxdesign.cc/offline-93c2f8396124,auth0,byrslf.co,scn.sap,codingbox.io
