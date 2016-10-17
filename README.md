@@ -43,7 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
 (Jake Archibald - Oct 13, 2016)
 
-[Do you need Service Worker in your web app?](https://codingbox.io/do-you-need-service-worker-in-your-web-app-d68131d65e2c#.henguv1aj)
+[Do you need Service Worker in your web app?](https://medium.com/m/global-identity?redirectUrl=https://codingbox.io/do-you-need-service-worker-in-your-web-app-d68131d65e2c)
 (Valerii Iatsko - Oct 9, 2016)
 
 [Progressive Web Apps with React.js: Part 3 — Offline support and network resilience](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c?source=userActivityShare-136a881c591e-1475748613)
