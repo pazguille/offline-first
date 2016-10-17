@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
+(Jake Archibald - Oct 13, 2016)
+
 [Offline Reading List](https://chrisruppel.com/blog/service-worker-offline-content-list/)
 (Chris Ruppel - Oct 5, 2016)
 
