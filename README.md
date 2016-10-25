@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[I Was Wrong About Offline](https://medium.com/outsystems-engineering/i-was-wrong-about-offline-fe5426894740#.yb9hhitn0)
+(Tiago Simões - Oct 20, 2016)
+
 [Offline strategies come to the Service Worker Cookbook](https://hacks.mozilla.org/2016/10/offline-strategies-come-to-the-service-worker-cookbook/)
 (Salva - Oct 19, 2016)
 
