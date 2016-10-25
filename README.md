@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Offline strategies come to the Service Worker Cookbook](https://hacks.mozilla.org/2016/10/offline-strategies-come-to-the-service-worker-cookbook/)
+(Salva - Oct 19, 2016)
+
 [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
 (Jake Archibald - Oct 13, 2016)
 
