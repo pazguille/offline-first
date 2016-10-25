@@ -43,6 +43,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
 (Jake Archibald - Oct 13, 2016)
 
+["Offline First" with Service Worker (Building a PWA, Part 1)](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
+(Ire Aderinokun - Oct 11, 2016)
+
 [Do you need Service Worker in your web app?](https://codingbox.io/do-you-need-service-worker-in-your-web-app-d68131d65e2c?gi=666f4385e803)
 (Valerii Iatsko - Oct 9, 2016)
 
