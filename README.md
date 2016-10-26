@@ -705,6 +705,8 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [appCache Nanny](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
 
+[bro-fs](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://dev.w3.org/2009/dap/file-system/file-dir-sys.html) allowing to work with sandboxed filesystem in Chrome.
+
 ## Books
 
 [Offline First Web Development](https://www.packtpub.com/web-development/offline-first-web-development)
