@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[My biggest takeaway from the second Offline Camp in Santa Margarita, CA — plus toast!](https://medium.com/@jessebeach/my-biggest-takeaway-from-the-second-offline-camp-in-santa-margarita-ca-d0dd930cd02b#.di93bftj9)
+(J. Renée Beach - Nov 8, 2016)
+
 [I Was Wrong About Offline](https://medium.com/outsystems-engineering/i-was-wrong-about-offline-fe5426894740#.yb9hhitn0)
 (Tiago Simões - Oct 20, 2016)
 
