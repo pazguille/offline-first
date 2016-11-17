@@ -184,7 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Reducing Single Point of Failure using Service Workers](http://calendar.perfplanet.com/2015/reducing-single-point-of-failure-using-service-workers/)
 (Dean Hume - Dec 1, 2015)
 
-[Building realtime collaborative offline-first apps with React, Redux, PouchDB and WebSockets](http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/)
+[Building realtime collaborative offline-first apps with React, Redux, PouchDB and WebSockets](https://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/)
 (Pedro Teixeira - Nov 30, 2015)
 
 [Cache-limiting in Service Workers …again](https://adactio.com/journal/9888)
@@ -408,7 +408,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Appcache, not so much a douchebag as a complete pain in the #$%^](http://www.webdirections.org/blog/appcache-not-so-much-a-douchebag-as-a-complete-pain-in-the/)
 (John Allsopp - Jul 19, 2013)
 
-[Using HTML5 AppCache with Single Page Applications](http://techblog.dorogin.com/2013/03/using-html5-appcache-with-single-page-apps.html)
+[Using HTML5 AppCache with Single Page Applications](https://techblog.dorogin.com/2013/03/using-html5-appcache-with-single-page-apps.html)
 (Sergei Dorogin - Mar 29, 2013)
 
 [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
@@ -717,7 +717,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [appCache Nanny](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
 
-[bro-fs](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://dev.w3.org/2009/dap/file-system/file-dir-sys.html) allowing to work with sandboxed filesystem in Chrome.
+[bro-fs](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
 
 ## Books
 
