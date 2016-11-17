@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Instant Loading Web Apps with an Application Shell Architecture by Google](https://developers.google.com/web/updates/2015/11/app-shell)
+(Addy Osmani & Matt Gaunt - 2016)
+
 [My biggest takeaway from the second Offline Camp in Santa Margarita, CA — plus toast!](https://medium.com/@jessebeach/my-biggest-takeaway-from-the-second-offline-camp-in-santa-margarita-ca-d0dd930cd02b#.di93bftj9)
 (J. Renée Beach - Nov 8, 2016)
 
