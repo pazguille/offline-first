@@ -438,6 +438,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4)
+(Jake Archibald- Nov 11, 2016)
+
 [Offline is the new black](https://vimeo.com/171317290)
 (Max Stoiber - Jun 19, 2016)
 
