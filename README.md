@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Building a simple offline-capable Notepad app using ServiceWorker](https://hackernoon.com/building-a-simple-offline-capable-notepad-app-using-serviceworker-97b9b50767a5#.k9zhvs3ep)
+(Amit Merchant - Nov 15, 2016)
+
 [Instant Loading Web Apps with an Application Shell Architecture by Google](https://developers.google.com/web/updates/2015/11/app-shell)
 (Addy Osmani & Matt Gaunt - 2016)
 
