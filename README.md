@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Storing Sensitive Data Offline](https://medium.com/offline-camp/storing-sensitive-data-offline-cec851df95e3#.g78qucejz)
+(Paul Frazee - Nov 17, 2016)
+
 [Building a simple offline-capable Notepad app using ServiceWorker](https://hackernoon.com/building-a-simple-offline-capable-notepad-app-using-serviceworker-97b9b50767a5#.k9zhvs3ep)
 (Amit Merchant - Nov 15, 2016)
 
