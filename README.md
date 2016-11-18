@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
+(Mustafa Kurtuldu - 2016)
+
 [Storing Sensitive Data Offline](https://medium.com/offline-camp/storing-sensitive-data-offline-cec851df95e3#.g78qucejz)
 (Paul Frazee - Nov 17, 2016)
 
