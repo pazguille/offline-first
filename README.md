@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Designed to be offline-first](https://medium.com/hypertrack/designed-to-be-offline-first-def41a3668b8#.a0u11gp4j)
+(Arjun Attam - Nov 29, 2016)
+
 [Hack Time: Service Workers, Background Sync, and PouchDB](https://medium.com/offline-camp/hack-time-service-workers-background-sync-and-pouchdb-3c8b71535823#.qlqbjm6dw)
 (John Kleinschmidt - Nov 29, 2016)
 
