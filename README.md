@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Hack Time: Service Workers, Background Sync, and PouchDB](https://medium.com/offline-camp/hack-time-service-workers-background-sync-and-pouchdb-3c8b71535823#.qlqbjm6dw)
+(John Kleinschmidt - Nov 29, 2016)
+
 [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
 (Mustafa Kurtuldu - 2016)
 
