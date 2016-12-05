@@ -39,7 +39,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
 
 ## Posts
-[Service Worker, what are you ?](https://medium.com/@kosamari/service-worker-what-are-you-ca0f8df92b65#.wc6eggecd)
+[Cross-origin Service Workers: Experimenting with Foreign Fetch](https://developers.google.com/web/updates/2016/09/foreign-fetch)
+(Jeff Posnick - Dec 2016)
+
+[Service Worker, what are you?](https://medium.com/@kosamari/service-worker-what-are-you-ca0f8df92b65#.wc6eggecd)
 (Mariko Kosaka - Dec 1, 2016)
 
 [Designed to be offline-first](https://medium.com/hypertrack/designed-to-be-offline-first-def41a3668b8#.a0u11gp4j)
