@@ -117,6 +117,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 (Offline Google Analytics Made Easy)[https://developers.google.com/web/updates/2016/07/offline-google-analytics]
 (Jeff Posnick - Jul, 2016)
 
+[My blog's Service Worker and Caching Strategy](https://paul.kinlan.me/my-blogs-service-worker-and-caching-strategy/)
+(Paul Kinlan - Jun 15, 2016)
+
 [Offline Content with Service Worker](https://chrisruppel.com/blog/service-worker-offline-content/)
 (Chris Ruppel - Jun 6, 2016)
 
