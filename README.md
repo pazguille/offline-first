@@ -39,6 +39,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
 
 ## Posts
+
+[Offline App Architecture: how to build for the next billion](https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.30ev0831v)
+(Arun Sasidharan - Dec 4, 2016)
+
 [Cross-origin Service Workers: Experimenting with Foreign Fetch](https://developers.google.com/web/updates/2016/09/foreign-fetch)
 (Jeff Posnick - Dec 2016)
 
