@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Won’t Get Fooled Again: Lessons in Lie-Fi](https://medium.com/outsystems-engineering/wont-get-fooled-again-lessons-in-lie-fi-9097052ea66e#.texx2j9pd)
+(Ricardo Ferreira - Dec 15, 2016)
+
 [Writing offline web apps is easy](https://medium.com/@aliafshar/writing-offline-web-apps-is-easy-bc5ece2ed16e#.26kewn4dd)
 (Ali Afshar - Dec 9, 2016)
 
