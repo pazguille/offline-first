@@ -43,6 +43,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Writing offline web apps is easy](https://medium.com/@aliafshar/writing-offline-web-apps-is-easy-bc5ece2ed16e#.26kewn4dd)
 (Ali Afshar - Dec 9, 2016)
 
+[Architecting a web app to “just work” offline](https://blog.superhuman.com/architecting-a-web-app-to-just-work-offline-part-1-8697f316c0eb#.i6y75or3v)
+(Islam Sharabash - Dec 6, 2016)
+
 [Offline App Architecture: how to build for the next billion](https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.30ev0831v)
 (Arun Sasidharan - Dec 4, 2016)
 
