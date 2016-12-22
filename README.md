@@ -79,6 +79,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [My biggest takeaway from the second Offline Camp in Santa Margarita, CA — plus toast!](https://medium.com/@jessebeach/my-biggest-takeaway-from-the-second-offline-camp-in-santa-margarita-ca-d0dd930cd02b#.di93bftj9)
 (J. Renée Beach - Nov 8, 2016)
 
+(The offline experience in 2016)[https://medium.com/@leofle/the-offline-experience-in-2016-83b1f00d7bfa#.nk8910brf]
+(Lio Fleishman - Oct 27, 2016)
+
 [I Was Wrong About Offline](https://medium.com/outsystems-engineering/i-was-wrong-about-offline-fe5426894740#.yb9hhitn0)
 (Tiago Simões - Oct 20, 2016)
 
