@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Introduction to Progressive Web Apps (Offline First)](https://auth0.com/blog/introduction-to-progressive-apps-part-one/)
+(Prosper Otemuyiwa - Dec 19, 2016)
+
 [Won’t Get Fooled Again: Lessons in Lie-Fi](https://medium.com/outsystems-engineering/wont-get-fooled-again-lessons-in-lie-fi-9097052ea66e#.texx2j9pd)
 (Ricardo Ferreira - Dec 15, 2016)
 
