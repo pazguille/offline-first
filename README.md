@@ -477,6 +477,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Service Worker and the Appification of the Web](http://www.thedotpost.com/2016/12/nolan-lawson-service-worker-and-the-appification-of-the-web)
+(Nolan Lawson - Dec 05, 2016)
+
 [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4)
 (Jake Archibald- Nov 11, 2016)
 
