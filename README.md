@@ -43,6 +43,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Won’t Get Fooled Again: Lessons in Lie-Fi](https://medium.com/outsystems-engineering/wont-get-fooled-again-lessons-in-lie-fi-9097052ea66e#.texx2j9pd)
 (Ricardo Ferreira - Dec 15, 2016)
 
+[Designing for Accidental Disconnects: Our first attempt at an offline approach](https://blog.getchop.io/designing-for-accidental-disconnects-our-first-attempt-at-an-offline-approach-2ac0bdb6d170#.i8odfrxxs)
+(Vivian Cromwell - Dec 14, 2016)
+
 [Offline Patterns: There are many jobs to be done](https://medium.com/offline-camp/offline-patterns-there-are-many-jobs-to-be-done-9f97f7e89304#.54tbekzbf)
 (Steve Trevathan - Dec 13, 2016)
 
