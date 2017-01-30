@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[How much data should my Service Worker put upfront in the offline cache?](https://nicolas-hoizey.com/2017/01/how-much-data-should-my-service-worker-put-upfront-in-the-offline-cache.html)
+(Nicolas Hoizey- Jan 12, 2017)
+
 [Making Resilient Web Design work offline](https://medium.com/@adactio/making-resilient-web-design-work-offline-a5854781b75b#.8khh8bnio)
 (Jeremy Keith - Jan 11, 2017)
 
