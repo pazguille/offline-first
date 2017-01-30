@@ -157,6 +157,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [My blog's Service Worker and Caching Strategy](https://paul.kinlan.me/my-blogs-service-worker-and-caching-strategy/)
 (Paul Kinlan - Jun 15, 2016)
 
+[Offline/Low-bandwidth UX Design Patterns](https://medium.com/offline-camp/offline-low-bandwidth-ux-design-patterns-51391230a79e#.sctlcxk4e)
+(Steve Trevathan - Jul 8, 2016)
+
 [Offline Content with Service Worker](https://chrisruppel.com/blog/service-worker-offline-content/)
 (Chris Ruppel - Jun 6, 2016)
 
