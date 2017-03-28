@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Optimize with HTTP/2 Server Push and Service Workers!](https://blog.yld.io/2017/03/01/optimize-with-http-2-server-push-and-service-workers)
+(Daniela Matos de Carvalho - Mar 1, 2017)
+
 [Moving beyond localStorage](https://journal.standardnotes.org/moving-beyond-localstorage-991e3695be15#.wqzo3mpuz)
 (Mo Bitar - Jan 17, 2017)
 
