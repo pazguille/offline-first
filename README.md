@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Understand offline first and offline last in Android](https://medium.com/@coreflodev/understand-offline-first-and-offline-last-in-android-71191e92b426)
+(Florent Guillemot - Feb 27, 2017)
+
 [Why Offline First?](https://medium.com/buildit/why-offline-first-20470604ee36)
 (Zachary Smith - Feb 22, 2017)
 
