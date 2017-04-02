@@ -507,6 +507,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Offline-first for Your Static Site](https://www.youtube.com/watch?v=_kJMjJ1tm6o)
+(Jeff Posnick - Jan 30, 2017)
+
 [Service Worker and the Appification of the Web](http://www.thedotpost.com/2016/12/nolan-lawson-service-worker-and-the-appification-of-the-web)
 (Nolan Lawson - Dec 05, 2016)
 
