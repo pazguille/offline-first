@@ -40,8 +40,35 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React Native](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
+(Jani Eväkallio - Mar 28, 2017)
+
+[Rethinking Offline First sync for Service Workers](https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee)
+(Nolan Lawson - Mar 16, 2017)
+
+[Offline support: "Try again, later", no more.](https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc)
+(Yonatan V. Levin - Mar 2, 2017)
+
 [Optimize with HTTP/2 Server Push and Service Workers!](https://blog.yld.io/2017/03/01/optimize-with-http-2-server-push-and-service-workers)
 (Daniela Matos de Carvalho - Mar 1, 2017)
+
+[Understand offline first and offline last in Android](https://medium.com/@coreflodev/understand-offline-first-and-offline-last-in-android-71191e92b426)
+(Florent Guillemot - Feb 27, 2017)
+
+[Why Offline First?](https://medium.com/buildit/why-offline-first-20470604ee36)
+(Zachary Smith - Feb 22, 2017)
+
+[Send messages when you’re back online with Service Workers and Background Sync](https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html)
+(Phil Nash - Feb 17, 2017)
+
+[Offline First React Native + Meteor Apps](https://hackernoon.com/offline-first-react-native-meteor-apps-2bee8e976ec7)
+(Spencer Carli - Feb 8, 2017)
+
+[Offline-First Web Application Using Redux and PouchDB](https://stories.jotform.com/offline-first-web-applications-d2d321444510)
+(Berkay Aydın - Jan 30, 2017)
+
+[Implementing "Save For Offline" with Service Workers.](https://una.im/save-offline)
+(Una Kravets - Jan 26, 2017)
 
 [Moving beyond localStorage](https://journal.standardnotes.org/moving-beyond-localstorage-991e3695be15#.wqzo3mpuz)
 (Mo Bitar - Jan 17, 2017)
@@ -51,6 +78,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [Making Resilient Web Design work offline](https://medium.com/@adactio/making-resilient-web-design-work-offline-a5854781b75b#.8khh8bnio)
 (Jeremy Keith - Jan 11, 2017)
+
+[Using Service Workers and Cache to Take Web Performance to a New Level](https://calendar.perfplanet.com/2016/service-workers-cache-web-performance-new-level/)
+(Chris Love - Dec 23, 2016)
 
 [Faking progress (service worker edition)](https://medium.com/remys-blog/faking-progress-service-worker-edition-4c3fa16e5b32#.coya1w3ki)
 (Remy Sharp - Dec 22, 2016)
@@ -504,6 +534,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Videos
 
+[Offline-first for Your Static Site](https://www.youtube.com/watch?v=_kJMjJ1tm6o)
+(Jeff Posnick - Jan 30, 2017)
+
 [Service Worker and the Appification of the Web](http://www.thedotpost.com/2016/12/nolan-lawson-service-worker-and-the-appification-of-the-web)
 (Nolan Lawson - Dec 05, 2016)
 
@@ -747,6 +780,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools
 
+[offline-plugin](https://github.com/NekR/offline-plugin/): Offline plugin (ServiceWorker, AppCache) for webpack.
+
+[Pinterest Service Workers](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
+
 [Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
 
 [bottle-service](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
@@ -789,6 +826,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [bro-fs](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
 
 ## Books
+
+[The Offline First Book](https://neighbourhood.ie/offline-first/book/)
+(by Neighbourhoodie)
 
 [Offline First Web Development](https://www.packtpub.com/web-development/offline-first-web-development)
 (by Daniel Sauble)
