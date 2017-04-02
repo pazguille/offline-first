@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Implementing "Save For Offline" with Service Workers.](https://una.im/save-offline)
+(Una Kravets - Jan 26, 2017)
+
 [Moving beyond localStorage](https://journal.standardnotes.org/moving-beyond-localstorage-991e3695be15#.wqzo3mpuz)
 (Mo Bitar - Jan 17, 2017)
 
