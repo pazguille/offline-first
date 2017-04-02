@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Offline-First Web Application Using Redux and PouchDB](https://stories.jotform.com/offline-first-web-applications-d2d321444510)
+(Berkay Aydın - Jan 30, 2017)
+
 [Implementing "Save For Offline" with Service Workers.](https://una.im/save-offline)
 (Una Kravets - Jan 26, 2017)
 
