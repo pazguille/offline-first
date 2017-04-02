@@ -777,6 +777,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools
 
+[offline-plugin](https://github.com/NekR/offline-plugin/): Offline plugin (ServiceWorker, AppCache) for webpack.
+
+[Pinterest Service Workers](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
+
 [Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
 
 [bottle-service](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
