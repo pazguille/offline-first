@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Why Offline First?](https://medium.com/buildit/why-offline-first-20470604ee36)
+(Zachary Smith - Feb 22, 2017)
+
 [Send messages when you’re back online with Service Workers and Background Sync](https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html)
 (Phil Nash - Feb 17, 2017)
 
