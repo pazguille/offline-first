@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Offline support: "Try again, later", no more.](https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc)
+(Yonatan V. Levin - Mar 2, 2017)
+
 [Understand offline first and offline last in Android](https://medium.com/@coreflodev/understand-offline-first-and-offline-last-in-android-71191e92b426)
 (Florent Guillemot - Feb 27, 2017)
 
