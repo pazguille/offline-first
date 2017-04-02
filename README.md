@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React Native](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
+(Jani Eväkallio - Mar 28, 2017)
+
 [Rethinking Offline First sync for Service Workers](https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee)
 (Nolan Lawson - Mar 16, 2017)
 
