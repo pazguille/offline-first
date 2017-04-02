@@ -824,6 +824,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 ## Books
 
+[The Offline First Book](https://neighbourhood.ie/offline-first/book/)
+(by Neighbourhoodie)
+
 [Offline First Web Development](https://www.packtpub.com/web-development/offline-first-web-development)
 (by Daniel Sauble)
 
