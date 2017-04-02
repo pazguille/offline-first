@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+[Rethinking Offline First sync for Service Workers](https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee)
+(Nolan Lawson - Mar 16, 2017)
+
 [Offline support: "Try again, later", no more.](https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc)
 (Yonatan V. Levin - Mar 2, 2017)
 
