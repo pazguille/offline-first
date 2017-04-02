@@ -49,6 +49,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Making Resilient Web Design work offline](https://medium.com/@adactio/making-resilient-web-design-work-offline-a5854781b75b#.8khh8bnio)
 (Jeremy Keith - Jan 11, 2017)
 
+[Using Service Workers and Cache to Take Web Performance to a New Level](https://calendar.perfplanet.com/2016/service-workers-cache-web-performance-new-level/)
+(Chris Love - Dec 23, 2016)
+
 [Faking progress (service worker edition)](https://medium.com/remys-blog/faking-progress-service-worker-edition-4c3fa16e5b32#.coya1w3ki)
 (Remy Sharp - Dec 22, 2016)
 
