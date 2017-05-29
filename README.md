@@ -190,6 +190,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 (Offline Google Analytics Made Easy)[https://developers.google.com/web/updates/2016/07/offline-google-analytics]
 (Jeff Posnick - Jul, 2016)
 
+(Security in Offline First Apps)[https://medium.com/offline-camp/offline-first-security-59bf4800e82a]
+(Calvin Metcalf - Jul 8, 2016)
+
 [My blog's Service Worker and Caching Strategy](https://paul.kinlan.me/my-blogs-service-worker-and-caching-strategy/)
 (Paul Kinlan - Jun 15, 2016)
 
