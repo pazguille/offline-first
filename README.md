@@ -61,6 +61,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Send messages when you’re back online with Service Workers and Background Sync](https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html)
 (Phil Nash - Feb 17, 2017)
 
+[Easy Offline First Apps With Webpack's Offline Plugin](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin)
+(Kay Plößer - Feb 12, 2017)
+
 [Offline First React Native + Meteor Apps](https://hackernoon.com/offline-first-react-native-meteor-apps-2bee8e976ec7)
 (Spencer Carli - Feb 8, 2017)
 
