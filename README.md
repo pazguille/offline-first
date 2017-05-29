@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+(Offline First Design Patterns : Engineering)[https://medium.com/offline-camp/offline-first-design-patterns-engineering-1c66821137d3]
+(Anirudha Bedre - Mar 28, 2017)
+
 [Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React Native](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 (Jani Eväkallio - Mar 28, 2017)
 
