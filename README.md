@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+(Offline POSTs in Progressive Web Apps)[https://medium.com/@nitish404/offline-post-in-progressive-web-apps-3d02f893b223]
+(Nitish Thakur - Jun 23, 2017)
+
 (Offline First Design Patterns : Engineering)[https://medium.com/offline-camp/offline-first-design-patterns-engineering-1c66821137d3]
 (Anirudha Bedre - Mar 28, 2017)
 
