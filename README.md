@@ -40,6 +40,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
+(Persistent Storage API: Building for the offline web)[https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161]
+(Dean Hume - Jun 26, 2017)
+
 (Offline POSTs in Progressive Web Apps)[https://medium.com/@nitish404/offline-post-in-progressive-web-apps-3d02f893b223]
 (Nitish Thakur - Jun 23, 2017)
 
