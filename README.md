@@ -40,13 +40,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Posts
 
-(Persistent Storage API: Building for the offline web)[https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161]
+[Persistent Storage API: Building for the offline web](https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161)
 (Dean Hume - Jun 26, 2017)
 
-(Offline POSTs in Progressive Web Apps)[https://medium.com/@nitish404/offline-post-in-progressive-web-apps-3d02f893b223]
+[Offline POSTs in Progressive Web Apps](https://medium.com/@nitish404/offline-post-in-progressive-web-apps-3d02f893b223)
 (Nitish Thakur - Jun 23, 2017)
 
-(Offline First Design Patterns : Engineering)[https://medium.com/offline-camp/offline-first-design-patterns-engineering-1c66821137d3]
+[Offline First Design Patterns : Engineering](https://medium.com/offline-camp/offline-first-design-patterns-engineering-1c66821137d3)
 (Anirudha Bedre - Mar 28, 2017)
 
 [Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React Native](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
@@ -196,10 +196,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline First, the Decentralized Web, and Peer-to-Peer Technologies](https://medium.com/offline-camp/offline-first-the-decentralized-web-and-peer-to-peer-technologies-b05b7fb3bcdd#.6xdfvy6on)
 (Pedro Teixeira - Jul 15, 2016)
 
-(Offline Google Analytics Made Easy)[https://developers.google.com/web/updates/2016/07/offline-google-analytics]
+[Offline Google Analytics Made Easy](https://developers.google.com/web/updates/2016/07/offline-google-analytics)
 (Jeff Posnick - Jul, 2016)
 
-(Security in Offline First Apps)[https://medium.com/offline-camp/offline-first-security-59bf4800e82a]
+[Security in Offline First Apps](https://medium.com/offline-camp/offline-first-security-59bf4800e82a)
 (Calvin Metcalf - Jul 8, 2016)
 
 [My blog's Service Worker and Caching Strategy](https://paul.kinlan.me/my-blogs-service-worker-and-caching-strategy/)
@@ -229,10 +229,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Progressive Web Apps with Service Workers](http://blog.booking.com/progressive-web-apps-with-service-workers.html)
 (Jesse Yang - Apr 21, 2016)
 
-[How To Use PouchDB + SQLite For Local Storage In Ionic 2] (http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
+[How To Use PouchDB + SQLite For Local Storage In Ionic 2](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
 (Ashteya Biharisingh - Apr 18, 2016)
 
-[Offline-First, Document Sharing, Templates: Monod is Back (not in Black)] (https://tailordev.fr/blog/2016/04/15/le-lab-2-offline-first-document-sharing-templates-monod-is-back/)
+[Offline-First, Document Sharing, Templates: Monod is Back (not in Black)](https://tailordev.fr/blog/2016/04/15/le-lab-2-offline-first-document-sharing-templates-monod-is-back/)
 (Apr 15, 2016)
 
 [Issue 4: Offline badging, DevTools, Testing, Travis, Web Storage, Service Worker Scopes, Data-driven Development, Compute Engine](https://medium.com/totally-tooling-tears/issue-4-offline-badging-testing-travis-devtools-issues-web-storage-data-driven-development-8dd1cfbc410a#.mgur8g8n3)
