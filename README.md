@@ -58,8 +58,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [You're Offline](https://mxb.at/blog/youre-offline/)
 (Max Böck - Jul 12, 2017)
 
+[[Part 2] Get rapid offline capability in your Angular app with service worker](https://medium.com/onehourcode/part-2-get-rapid-offline-capability-in-your-angular-app-with-service-worker-954f17109dd0)
+(Hugo Dolan - Jun 28, 2017)
+
 [Persistent Storage API: Building for the offline web](https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161)
 (Dean Hume - Jun 26, 2017)
+
+[[Part 1] Get rapid offline capability in your Angular app with service worker](https://medium.com/onehourcode/part-1-get-rapid-offline-capability-in-your-angular-app-with-service-worker-762a889a503d)
+(Hugo Dolan - Jun 21, 2017)
 
 [Building an offline Web App that works in very low internet conditions using ServiceWorkers](https://medium.com/progressive-web-apps/building-offline-webapp-using-serviceworkers-8939a694cc5)
 (Hari krishna - Jun 16, 2017)
