@@ -840,7 +840,10 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [bro-fs](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
 
+[Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
+
 [workbox](https://github.com/GoogleChrome/workbox): JavaScript libraries for Offline Caching
+
 
 ## Books
 
