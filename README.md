@@ -46,6 +46,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue](https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f)
 (James Shvarts - Oct 8, 2017)
 
+[Supporting Offline Users — What Happens When it Breaks?](https://medium.com/offline-camp/supporting-offline-users-what-happens-when-it-breaks-562f7dcea0a9)
+(John Kleinschmidt - Sep 27, 2017)
+
 [Using React and Preact to Build My First Offline First Apps](https://medium.com/offline-camp/using-react-and-preact-to-build-my-first-offline-first-apps-8df4a1e5471b)
 (Nick Kasten - Sep 5, 2017)
 
