@@ -46,6 +46,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue](https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f)
 (James Shvarts - Oct 8, 2017)
 
+[Using React and Preact to Build My First Offline First Apps](https://medium.com/offline-camp/using-react-and-preact-to-build-my-first-offline-first-apps-8df4a1e5471b)
+(Nick Kasten - Sep 5, 2017)
+
 [Persistent Storage API: Building for the offline web](https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161)
 (Dean Hume - Jun 26, 2017)
 
