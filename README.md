@@ -52,6 +52,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline-Friendly Forms](https://mxb.at/blog/offline-forms/)
 (Max Böck - Aug 23, 2017)
 
+[Service Worker: One fallback offline image for any aspect ratio](https://hackernoon.com/service-worker-one-fallback-offline-image-for-any-aspect-ratio-b427c0f897fb)
+(Sebastian Eberlein - Aug 14, 2017)
+
 [Persistent Storage API: Building for the offline web](https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161)
 (Dean Hume - Jun 26, 2017)
 
