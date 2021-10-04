@@ -580,6 +580,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Let's take this offline](http://diveintohtml5.info/offline.html)
 (Mark Pilgrim)
 
+[About Offline First](https://rxdb.info/offline-first.html)
+(Daniel Meyer - Oct 1, 2021)
+
+[Downsites of Offline First](https://rxdb.info/downsides-of-offline-first.html)
+(Daniel Meyer - Oct 3, 2021)
+
 
 ## Presentations
 
