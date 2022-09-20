@@ -1,10 +1,8 @@
-# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
+# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Useful resources for creating Offline-First web apps
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
-
-> via https://www.html5rocks.com/en/features/offline
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -32,13 +30,41 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [IndexedDB](http://www.w3.org/TR/IndexedDB/)
 > This specification defines APIs for a database of records holding simple values and hierarchical objects. Each record consists of a key and some value. Moreover, the database maintains indexes over records it stores. An application developer directly uses an API to locate records either by their key or by using an index. A query language can be layered on this API. An indexed database can be implemented using a persistent B-tree data structure.
 
-[WebStorage](http://www.w3.org/TR/webstorage/)
-> This specification defines an API for persistent data storage of key-value pair data in Web clients.
 
 ## Newsletter
 [The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
 
 ## Posts
+
+[Design Patterns for Offline First Web Apps](https://blog.bitsrc.io/design-patterns-for-offline-first-web-apps-5891a4b06f3a)
+(Ravidu Perera - Sep 20, 2022)
+
+[Making PWAs work offline with Service workers](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers)
+(MDN - Sep 9, 2022)
+
+[Why Would a Web App Need Encryption-at-Rest?](https://levelup.gitconnected.com/why-would-a-web-app-need-encryption-at-rest-3efd10c145e1)
+(Erik Hermansen - May 31, 2022)
+
+[Offline UX design guidelines](https://web.dev/offline-ux-design-guidelines/)
+(Mustafa Kurtuldu, Thomas Steiner - Jun 13, 2022)
+
+[How to design for slow networks and offline](https://uxplanet.org/youre-not-connected-to-internet-50a46ee016a7)
+(Nick Babich - Feb 17, 2022)
+
+[Downsites of Offline First](https://rxdb.info/downsides-of-offline-first.html)
+(Daniel Meyer - Oct 3, 2021)
+
+[About Offline First](https://rxdb.info/offline-first.html)
+(Daniel Meyer - Oct 1, 2021)
+
+[Create an offline fallback page](https://web.dev/offline-fallback-page/)
+(Thomas Steiner, Pete LePage - Sep 24, 2020)
+
+[A Design Guide for Building Offline First Apps](https://hasura.io/blog/design-guide-to-offline-first-apps)
+(Gautam BT - Feb 13, 2020)
+
+[The challenges of making a true Offline First app](https://medium.com/idea-growr/rebuilding-idea-growr-offline-first-using-react-native-graphql-docker-during-our-hackaton-576b6f7a8b90)
+(Julius Huijnk - Jun 4, 2019)
 
 [Accessibility Testing for Offline First Applications](https://medium.com/ibm-watson-data-lab/accessibility-testing-for-offline-first-applications-d8d2bfd24a6e)
 (Maureen McElaney - Nov 6, 2017)
@@ -580,16 +606,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Let's take this offline](http://diveintohtml5.info/offline.html)
 (Mark Pilgrim)
 
-[About Offline First](https://rxdb.info/offline-first.html)
-(Daniel Meyer - Oct 1, 2021)
-
-[Downsites of Offline First](https://rxdb.info/downsides-of-offline-first.html)
-(Daniel Meyer - Oct 3, 2021)
-
 
 ## Presentations
 
 ### Videos
+
+[Introduction to Offline First web applications](https://www.youtube.com/watch?v=2zyAX9J8Diw)
+(Max Gfeller - May 30, 2022)
+
+[Designing for 24/7 Use: Offline-First Mobile App Development](https://www.mendix.com/videos/designing-for-24-7-use-offline-first-mobile-app-development/)
+(Danny Roest - Oct 01, 2020)
 
 [Offline-first for Your Static Site](https://www.youtube.com/watch?v=_kJMjJ1tm6o)
 (Jeff Posnick - Jan 30, 2017)
@@ -886,6 +912,8 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [workbox](https://github.com/GoogleChrome/workbox): JavaScript libraries for Offline Caching
 
+[rxdb](https://github.com/pubkey/rxdb)
+
 
 ## Books
 
@@ -928,10 +956,11 @@ Sharing, suggestions and contributions are always welcome! If you want to contri
 Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors).
 
 ## Maintained by
-- Guille Paz (Front-end developer | Web standards lover)
+- Guille Paz (Frontend Web Developer & Web standards lover)
 - E-mail: [guille87paz@gmail.com](mailto:guille87paz@gmail.com)
 - Twitter: [@pazguille](https://twitter.com/pazguille)
 - Web: [https://pazguille.me/](https://pazguille.me/)
+
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
