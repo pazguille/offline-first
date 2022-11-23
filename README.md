@@ -32,7 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ## Newsletter
-[The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
+[The Offline First Reader](https://offlinefirst.org/news/). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
 
 ## Posts
 
