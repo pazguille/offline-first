@@ -946,6 +946,8 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Soundslice](https://www.soundslice.com/): Learn and teach music better with interactive notation with [offline mode](https://www.soundslice.com/blog/29/introducing-soundslice-offline-mode/).
 
+[abox.tools](https://abox.tools/): Thirty-five file tools - image, video, audio, PDF and text - where every tool is its own service-worker-backed app, so each one keeps working with the network off. Nothing is uploaded in the first place.
+
 ## Who to Follow
 - [Matthew Riley](https://github.com/tofumatt): Works at mozilla, creator of localForage (localstroage, IndexedDb and WebSQL Wrapper)
 - [Jake Archibald](https://github.com/jakearchibald): Self described service worker fanatic, works at google helping make offline web apps a thing.
