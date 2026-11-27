@@ -915,6 +915,10 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [rxdb](https://github.com/pubkey/rxdb)
 
 
+
+- [Offlo](https://github.com/thesyedabubakkar/offlo) - 100% offline-first visual Kanban board and task manager for Android and Web. ([Web](https://offlo.techorbitpvt.com/), [Google Play](https://play.google.com/store/apps/details?id=com.techorbit.offlo))
+
+
 ## Books
 
 [The Offline First Book](https://neighbourhood.ie/offline-first/book/)
